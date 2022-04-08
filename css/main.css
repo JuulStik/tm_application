@@ -1,0 +1,305 @@
+/* page wide changes */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Maven Pro", sans-serif;
+  font-size: 14px;
+  font-weight: lighter;
+  background-image: url("friends2.jfif");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: black;
+}
+
+.hidden {
+  display: none;
+}
+
+.header {
+  font-size: 24px;
+  text-align: center;
+  font-weight: 600;
+}
+
+/* navigation bar*/
+.navbar {
+  background-color: black;
+  color: white;
+  width: 100%;
+  margin: 0;
+  border-radius: 0;
+  border-bottom: 2px solid white;
+}
+
+.navbar-header {
+  width: 25%;
+  text-align: left;
+}
+.links {
+  display: inline-block;
+  word-spacing: 10vw;
+  width: 50%;
+}
+
+.link:focus {
+  color: white;
+  text-decoration: none;
+}
+
+.link:focus::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  background: white;
+  bottom: 0;
+  left: 0;
+  transform: scale(1, 1);
+}
+
+.link {
+  color: white;
+  position: relative;
+  padding-bottom: 5px;
+}
+
+.link:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.link::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 1px;
+  background: white;
+  bottom: 0;
+  left: 0;
+  transition: 300ms ease;
+  transform: scale(0, 1);
+}
+
+.link:hover::after {
+  transform: scale(1, 1);
+  color: white;
+}
+
+.link-header {
+  color: white;
+  font-size: 14px;
+}
+
+.link-header:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.link-header:focus {
+  color: white;
+  text-decoration: none;
+}
+
+.button {
+  width: 75%;
+}
+
+.navbutton {
+  position: relative;
+  background: black;
+  left: 80%;
+  width: 30px;
+  height: 30px;
+  border: none;
+}
+
+.navbutton:hover {
+  margin: 0;
+}
+
+.line {
+  display: block;
+  background: white;
+  width: 100%;
+  height: 2px;
+  margin: auto;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  left: 0;
+}
+
+/* front page */
+
+.front-image {
+  position: relative;
+  text-align: center;
+  height: 60vw;
+}
+
+.title {
+  width: 100%;
+  position: absolute;
+  color: rgb(233, 233, 233);
+  font-size: 12vw;
+  text-shadow: 0.2vw 0.2vw 0.3vw black;
+}
+
+#t1 {
+  top: 20%;
+}
+
+#t2 {
+  top: 40%;
+}
+
+/* sentiment-section */
+
+.wrapper {
+  height: auto;
+  display: flex;
+  background-color: black;
+  color: white;
+  flex-wrap: wrap;
+  align-items: top;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+
+#sentiment-wrapper {
+  border-radius: 0;
+  border-top: 2px solid white;
+}
+
+.sentiment-section {
+  text-align: center;
+  display: inline-block;
+  min-width: 450px;
+  width: 50%;
+}
+
+.sentiment {
+  width: 50%;
+  padding-top: 10px;
+}
+
+.dropdown {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+.submitbtn {
+  width: 80px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+.display {
+  position: absolute;
+  height: auto;
+  padding: 0px 10px 0px 10px;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 14px;
+}
+
+.outputblock {
+  position: relative;
+  margin-top: 20px;
+  background-color: aliceblue;
+  color: black;
+  height: 100px;
+  border: 4px solid #d9534f;
+  border-radius: 2px;
+}
+
+label {
+  vertical-align: top;
+}
+
+form {
+  margin-top: 20px;
+  text-align: center;
+}
+
+/* topic section */
+.topic-section {
+  text-align: center;
+  display: inline-block;
+  min-width: 450px;
+  width: 50%;
+}
+
+.image {
+  margin-top: 20px;
+  border: 4px solid #d9534f;
+  box-shadow: 0.1vw 0.1vw 0.6vw lightgray;
+  border-radius: 2px;
+}
+
+/*contact + footer*/
+
+#contact {
+  background-color: black;
+  padding: 35px 0px 0px 0px;
+  border-top: 2px solid white;
+}
+
+footer {
+  background-color: black;
+  padding: 40px;
+}
+
+.fa {
+  padding: 15px;
+  font-size: 20px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px 20px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  color: white;
+  background-color: black;
+  text-decoration: none;
+}
+
+.fa:focus {
+  color: white;
+  background-color: black;
+  text-decoration: none;
+}
+
+.fa-facebook {
+  background: white;
+  color: black;
+}
+
+.fa-twitter {
+  background: white;
+  color: black;
+}
+
+.fa-google {
+  background: white;
+  color: black;
+}
+
+.fa-linkedin {
+  background: white;
+  color: black;
+}
+
+#episodestopic {
+  width: 200px;
+}

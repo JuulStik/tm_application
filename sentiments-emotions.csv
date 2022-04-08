@@ -1,0 +1,1351 @@
+,Sentiment_score,Emotion,Episode,Season
+rachel,0.9313,Fear,Episode-01-The One Where Monica Gets a New Roommate (The Pilot),Season-01
+rachel,0.8375,Surprise,Episode-02-The One With the Sonogram at the End,Season-01
+rachel,0.886,Surprise,Episode-03-The One With the Thumb,Season-01
+rachel,0.958,Sad,Episode-04-The One With George Stephanopoulos,Season-01
+rachel,0.0516,Fear,Episode-05-The One With the East German Laundry Detergent,Season-01
+rachel,0.2732,Surprise,Episode-06-The One With the Butt,Season-01
+rachel,0.91,Fear,Episode-07-The One With the Blackout,Season-01
+rachel,0.0,Surprise,Episode-08-The One Where Nana Dies Twice,Season-01
+rachel,0.6808,Surprise,Episode-09-The One where Underdog Gets Away,Season-01
+rachel,-0.0772,Surprise,Episode-10-The One With the Monkey,Season-01
+rachel,0.9155,Surprise,Episode-11-The One With Mrs. Bing,Season-01
+rachel,0.8957,Surprise,Episode-12-The One With the Dozen Lasagnas,Season-01
+rachel,0.85,Fear,Episode-13-The One With the Boobies,Season-01
+rachel,0.8271,Surprise,Episode-14-The One With the Candy Hearts,Season-01
+rachel,0.1531,Sad,Episode-15-The One With the Stoned Guy,Season-01
+rachel,0.6486,Fear,"Episode-16-The One With Two Parts, Part 1",Season-01
+rachel,0.968,Happy,"Episode-17-The One With Two Parts, Part 2",Season-01
+rachel,-0.4615,Fear,Episode-18-The One With All The Poker,Season-01
+rachel,0.9917,Fear,Episode-19-The One Where the Monkey Gets Away,Season-01
+rachel,0.9604,Fear,Episode-20-The One With the Evil Orthodontist,Season-01
+rachel,0.1531,Surprise,Episode-21-The One With The Fake Monica,Season-01
+rachel,0.802,Surprise,Episode-22-The One With the Ick Factor,Season-01
+rachel,0.9657,Surprise,Episode-23-The One With the Birth,Season-01
+rachel,0.9288,Sad,Episode-24-The One Where Rachel Finds Out,Season-01
+rachel,0.7506,Surprise,Episode-01-The One With Ross' New Girlfriend,Season-02
+rachel,0.8834,Surprise,Episode-02-The One With the Breast Milk,Season-02
+rachel,0.7269,Surprise,Episode-03-The One Where Mr. Heckles Dies,Season-02
+rachel,0.9761,Surprise,Episode-04-The One With Phoebe's Husband,Season-02
+rachel,0.2023,Sad,Episode-05-The One With Five Steaks and an Eggplant,Season-02
+rachel,0.8834,Surprise,Episode-06-The One With the Baby on the Bus,Season-02
+rachel,0.8873,Surprise,Episode-07-The One Where Ross Finds Out,Season-02
+rachel,0.8402,Surprise,Episode-08-The One With the List,Season-02
+rachel,0.0772,Surprise,Episode-09-The One With Phoebe's Dad,Season-02
+rachel,-0.7115,Sad,Episode-10-The One With Russ,Season-02
+rachel,0.4019,Surprise,Episode-11-The One With the Lesbian Wedding,Season-02
+rachel,0.91,Fear,Episode-12-02x13 - The One After the Superbowl,Season-02
+rachel,0.8481,Surprise,Episode-14-The One With the Prom Video,Season-02
+rachel,0.8764,Surprise,Episode-15-The One Where Rachel and Ross... You Know,Season-02
+rachel,0.7783,Surprise,Episode-16-The One Where Joey Moves Out,Season-02
+rachel,0.6478,Surprise,Episode-17-The One Where Eddie Moves In,Season-02
+rachel,0.9786,Surprise,Episode-18-The One Where Dr. Remore Dies,Season-02
+rachel,0.8658,Surprise,Episode-19-The One Where Eddie Won't Go,Season-02
+rachel,0.9607,Surprise,Episode-20-The One Where Old Yeller Dies,Season-02
+rachel,0.4215,Surprise,Episode-21-The One With the Two Bullies,Season-02
+rachel,0.9816,Surprise,Episode-22-The One With the Two Parties,Season-02
+rachel,0.8807,Surprise,Episode-23-The One With the Chicken Pox,Season-02
+rachel,0.7717,Surprise,Episode-24-The One With Barry and Mindy's Wedding,Season-02
+rachel,0.2263,Surprise,Episode-01-The One With the Princess Leia Fantasy,Season-03
+rachel,0.8271,Surprise,Episode-02-The One Where No-one's Ready,Season-03
+rachel,0.3057,Fear,Episode-03-The One With the Jam,Season-03
+rachel,0.296,Sad,Episode-04-The One with the Metaphorical Tunnel,Season-03
+rachel,0.7717,Fear,Episode-05-The One With Frank Jr.,Season-03
+rachel,-0.5965,Fear,Episode-06-The One With The Flashback,Season-03
+rachel,0.4144,Sad,Episode-07-The One With the Race Car Bed,Season-03
+rachel,0.9702,Fear,Episode-08-The One With The Giant Poking Device,Season-03
+rachel,0.7096,Fear,Episode-09-The One With The Football,Season-03
+rachel,0.9538,Fear,Episode-10-The One Where Rachel Quits,Season-03
+rachel,0.9877,Fear,Episode-11-The One Where Chandler Can’t Remember Which Sister,Season-03
+rachel,0.743,Fear,Episode-12-The One With All The Jealousy,Season-03
+rachel,0.9186,Sad,Episode-13-The One Where Monica and Richard Are Friends,Season-03
+rachel,-0.9122,Fear,Episode-14-The One With Phoebe’s Ex-Partner,Season-03
+rachel,0.0258,Sad,Episode-15-The One Where Ross and Rachel Take A Break,Season-03
+rachel,-0.4159,Surprise,Episode-16-The One The Morning After,Season-03
+rachel,0.1027,Fear,Episode-17-The One Without The Ski Trip,Season-03
+rachel,0.9648,Fear,Episode-18-The One With The Hypnosis Tape,Season-03
+rachel,0.6124,Fear,Episode-19-The One With The Tiny T-shirt,Season-03
+rachel,0.9217,Fear,Episode-20-The One With The Dollhouse,Season-03
+rachel,0.886,Surprise,Episode-21-The One With A Chick And A Duck,Season-03
+rachel,0.0,Surprise,Episode-22-The One With The Screamer,Season-03
+rachel,0.8197,Surprise,Episode-23-The One With Ross's Thing,Season-03
+rachel,0.9042,Surprise,Episode-24-The One With The Ultimate Fighting Champion,Season-03
+rachel,0.9304,Sad,Episode-25-The One At The Beach,Season-03
+rachel,-0.9001,Surprise,Episode-01-The One With The Jellyfish,Season-04
+rachel,0.9778,Sad,Episode-02-The One With The Cat,Season-04
+rachel,0.7506,Sad,Episode-03-The One With The ‘Cuffs,Season-04
+rachel,0.8522,Surprise,Episode-04-The One With The Ballroom Dancing,Season-04
+rachel,0.9453,Fear,Episode-05-The One With Joey's New Girlfriend,Season-04
+rachel,0.4215,Surprise,Episode-06-The One With The Dirty Girl,Season-04
+rachel,-0.7579,Sad,Episode-07-The One Where Chandler Crosses a Line,Season-04
+rachel,-0.8555,Surprise,Episode-08-The One With Chandler in a Box,Season-04
+rachel,0.935,Surprise,Episode-09-The One Where They’re Gonna PARTY!,Season-04
+rachel,0.875,Sad,Episode-10-The One With The Girl From Poughkeepsie,Season-04
+rachel,0.5423,Surprise,Episode-11-The One With Phoebe's Uterus,Season-04
+rachel,-0.5423,Fear,Episode-12-The One With The Embryos,Season-04
+rachel,0.5892,Surprise,Episode-13-The One With Rachel’s Crush,Season-04
+rachel,0.9693,Fear,Episode-14-The One With Joey’s Dirty Day,Season-04
+rachel,-0.1442,Surprise,Episode-15-The One With All The Rugby,Season-04
+rachel,0.9833,Sad,Episode-16-The One With The Fake Party,Season-04
+rachel,0.4215,Surprise,Episode-17-The One With The Free p0rn,Season-04
+rachel,0.9665,Fear,Episode-18-The One With Rachel’s New Dress,Season-04
+rachel,0.836,Fear,Episode-19-The One With All The Haste,Season-04
+rachel,0.9714,Surprise,Episode-20-The One With All the Wedding Dresses,Season-04
+rachel,0.9752,Surprise,Episode-21-The One With The Invitation,Season-04
+rachel,0.6427,Surprise,Episode-22-The One With The Worst Best Man Ever,Season-04
+rachel,-0.9042,Sad,Episode-23-04x24 - The One With Ross’s Wedding Parts I and II,Season-04
+rachel,0.6429,Surprise,Episode-01-The One After Ross Says Rachel,Season-05
+rachel,-0.9181,Surprise,Episode-02-The One With All The Kissing,Season-05
+rachel,0.8519,Sad,Episode-03-The One Hundredth,Season-05
+rachel,0.34,Surprise,Episode-04-The One Where Phoebe Hates PBS,Season-05
+rachel,0.4186,Surprise,Episode-05-The One With All the Kips,Season-05
+rachel,-0.7976,Surprise,Episode-06-The One With The Yeti,Season-05
+rachel,0.9565,Fear,Episode-07-The One Where Ross Moves In,Season-05
+rachel,0.9661,Surprise,Episode-08-The One With The Thanksgiving Flashbacks,Season-05
+rachel,-0.969,Surprise,Episode-09-The One With Ross's Sandwich,Season-05
+rachel,0.9501,Surprise,Episode-10-The One With The Inappropriate Sister,Season-05
+rachel,0.6124,Surprise,Episode-11-The One With All The Resolutions,Season-05
+rachel,0.9339,Surprise,Episode-12-The One With Chandler's Work Laugh,Season-05
+rachel,0.9493,Surprise,Episode-13-The One With Joey's Bag,Season-05
+rachel,0.9325,Surprise,Episode-14-The One Where Everyone Finds Out,Season-05
+rachel,0.9182,Surprise,Episode-15-The One With The Girl Who Hits Joey,Season-05
+rachel,0.9423,Surprise,Episode-16-The One With A Cop,Season-05
+rachel,-0.4939,Fear,Episode-17-The One With Rachel's Inappropriate Kiss,Season-05
+rachel,0.9849,Surprise,Episode-18-The One Where Rachel Smokes,Season-05
+rachel,0.9716,Surprise,Episode-19-The One Where Ross Can't Flirt,Season-05
+rachel,-0.037,Fear,Episode-20-The One With The Ride Along,Season-05
+rachel,0.9756,Fear,Episode-21-The One With The Ball,Season-05
+rachel,0.705,Surprise,Episode-22-The One With Joey's Big Break,Season-05
+rachel,0.9638,Fear,Episode-23-05x24 - The One In Vegas,Season-05
+rachel,-0.8166,Surprise,Episode-01-The One After Vegas,Season-06
+rachel,0.9663,Surprise,Episode-02-The One Where Ross Hugs Rachel,Season-06
+rachel,0.9774,Fear,Episode-03-The One With Ross’s Denial,Season-06
+rachel,0.9066,Surprise,Episode-04-The One Where Joey Loses His Insurance,Season-06
+rachel,-0.4521,Fear,Episode-05-The One With Joey’s Porsche,Season-06
+rachel,-0.4201,Surprise,Episode-06-The One The Last Night,Season-06
+rachel,0.9485,Surprise,Episode-07-The One Where Phoebe Runs,Season-06
+rachel,0.6808,Surprise,Episode-08-The One With Ross’s Teeth,Season-06
+rachel,0.703,Sad,Episode-09-The One Where Ross Got High,Season-06
+rachel,0.931,Surprise,Episode-10-The One With The Routinue,Season-06
+rachel,0.3892,Surprise,Episode-11-The One With The Apothecary Table,Season-06
+rachel,0.969,Fear,Episode-12-The One With The Joke,Season-06
+rachel,0.8777,Surprise,Episode-13-The One With Rachel’s Sister,Season-06
+rachel,0.8807,Surprise,Episode-14-The One Where Chandler Can’t Cry,Season-06
+rachel,0.9794,Surprise,Episode-15-06x16 - The One That Could Have Been,Season-06
+rachel,0.2263,Surprise,Episode-17-The One With The Unagi,Season-06
+rachel,0.9547,Surprise,Episode-18-The One Where Ross Dates A Student,Season-06
+rachel,0.8473,Surprise,Episode-19-The One With Joey’s Fridge,Season-06
+rachel,-0.0258,Sad,Episode-20-The One With Mac and C.H.E.E.S.E.,Season-06
+rachel,0.9872,Sad,Episode-21-The One Where Ross Meets Elizabeth’s Dad,Season-06
+rachel,0.9393,Surprise,Episode-22-The One Where Paul’s The Man,Season-06
+rachel,0.9962,Surprise,Episode-23-The One With The Ring,Season-06
+rachel,0.9935,Surprise,Episode-24-06x25 - The One With The Proposal,Season-06
+rachel,-0.705,Surprise,Episode-01-The One With Monica’s Thunder,Season-07
+rachel,-0.4818,Sad,Episode-02-The One With Rachel’s Book,Season-07
+rachel,-0.2285,Surprise,Episode-03-The One With Phoebe’s Cookies,Season-07
+rachel,0.9613,Surprise,Episode-04-The One With Rachel’s Assistant,Season-07
+rachel,0.9753,Surprise,Episode-05-The One With The Engagement Picture,Season-07
+rachel,0.9001,Surprise,Episode-06-The One With The Nap Partners,Season-07
+rachel,0.9403,Sad,Episode-07-The One With Ross’s Book,Season-07
+rachel,0.8519,Surprise,Episode-08-The One Where Chandler Doesn’t Like Dogs,Season-07
+rachel,0.8692,Surprise,Episode-09-The One With All The Candy,Season-07
+rachel,0.961,Fear,Episode-10-The One With the Holiday Armadillo,Season-07
+rachel,0.7408,Surprise,Episode-11-The One With All The Cheesecakes,Season-07
+rachel,0.8658,Fear,Episode-12-The One Where They’re Up All Night,Season-07
+rachel,0.872,Surprise,Episode-13-The One Where Rosita Dies,Season-07
+rachel,0.9468,Surprise,Episode-14-The One Where They All Turn Thirty,Season-07
+rachel,0.9879,Surprise,Episode-15-The One With Joey’s New Brain,Season-07
+rachel,0.9867,Surprise,Episode-16-The One With The Truth About London,Season-07
+rachel,0.4215,Fear,Episode-17-The One With The Cheap Wedding Dress,Season-07
+rachel,0.7684,Surprise,Episode-18-The One With Joey’s Award,Season-07
+rachel,0.9081,Fear,Episode-19-The One With Ross and Monica’s Cousin,Season-07
+rachel,0.8811,Surprise,Episode-20-The One With Rachel’s Big Kiss,Season-07
+rachel,0.853,Surprise,Episode-21-The One With The Vows,Season-07
+rachel,0.6361,Fear,Episode-22-The One With Chandler’s Dad,Season-07
+rachel,0.9825,Surprise,Episode-23-07x24 - The One With Chandler and Monica’s Wedding,Season-07
+rachel,0.9272,Surprise,Episode-01-The One After I Do,Season-08
+rachel,0.9505,Surprise,Episode-02-The One With The Red Sweater,Season-08
+rachel,0.9485,Fear,Episode-03-The One Where Rachel Tells…,Season-08
+rachel,0.9675,Surprise,Episode-04-The One With The Videotape,Season-08
+rachel,0.831,Surprise,Episode-05-The One With Rachel’s Date,Season-08
+rachel,0.9556,Surprise,Episode-06-The One With The Halloween Party,Season-08
+rachel,0.9372,Fear,Episode-07-The One With The Stain,Season-08
+rachel,0.7154,Sad,Episode-08-The One With The Stripper,Season-08
+rachel,0.9371,Sad,Episode-09-The One With The Rumor,Season-08
+rachel,0.9532,Fear,Episode-10-The One With Monica’s Boots,Season-08
+rachel,0.9803,Surprise,Episode-11-The One With Ross’ Big Step Forward,Season-08
+rachel,0.9556,Surprise,Episode-12-The One Where Joey Dates Rachel,Season-08
+rachel,0.7003,Surprise,Episode-13-The One Where Chandler Takes a Bath,Season-08
+rachel,0.9442,Surprise,Episode-14-The One With The Secret Closet,Season-08
+rachel,-0.8126,Surprise,Episode-15-The One With The Birthing Video,Season-08
+rachel,0.9274,Surprise,Episode-16-The One Where Joey Tells Rachel,Season-08
+rachel,0.1243,Sad,Episode-17-The One With The Tea Leaves,Season-08
+rachel,0.9868,Surprise,Episode-18-The One In Massapequa,Season-08
+rachel,0.1602,Surprise,Episode-19-The One With Joey’s Interview,Season-08
+rachel,0.9725,Surprise,Episode-20-The One With The Baby Shower,Season-08
+rachel,0.9716,Happy,Episode-21-The One With The Cooking Class,Season-08
+rachel,0.9423,Surprise,Episode-22-The One Where Rachel Is Late,Season-08
+rachel,-0.1372,Surprise,Episode-23-08x24 - The One Where Rachel Has A Baby,Season-08
+rachel,0.8519,Surprise,Episode-01-The One Where No One Proposes,Season-09
+rachel,0.9699,Surprise,Episode-02-The One Where Emma Cries,Season-09
+rachel,0.8519,Fear,Episode-03-The One With The Pediatrician,Season-09
+rachel,0.5859,Sad,Episode-04-The One With The Sharks,Season-09
+rachel,0.9468,Sad,Episode-05-The One With Phoebe's Birthday Dinner,Season-09
+rachel,0.9837,Fear,Episode-06-The One With The Male Nanny (200th episode),Season-09
+rachel,0.8689,Sad,Episode-07-The One With Ross's Inappropriate Song,Season-09
+rachel,-0.3197,Fear,Episode-08-The One With Rachel's Other Sister,Season-09
+rachel,0.9284,Surprise,Episode-09-The One With Rachel’s Phone Number,Season-09
+rachel,0.6486,Surprise,Episode-10-The One With Christmas In Tulsa,Season-09
+rachel,0.9607,Surprise,Episode-11-The One Where Rachel Goes Back To Work,Season-09
+rachel,0.9738,Surprise,Episode-12-The One With Phoebe's Rats,Season-09
+rachel,-0.8316,Surprise,Episode-13-The One Where Monica Sings,Season-09
+rachel,0.9287,Surprise,Episode-14-The One With the Blind Dates,Season-09
+rachel,-0.0516,Happy,Episode-15-The One With The Mugging,Season-09
+rachel,0.4144,Sad,Episode-16-The One With The Boob Job,Season-09
+rachel,0.7184,Fear,Episode-17-The One With The Memorial Service,Season-09
+rachel,0.9432,Surprise,Episode-18-The One With The Lottery,Season-09
+rachel,0.9862,Surprise,Episode-19-The One With Rachel's Dream,Season-09
+rachel,-0.1027,Fear,Episode-20-The One With The Soap Opera Party,Season-09
+rachel,0.9633,Sad,Episode-21- The One With The Fertility Test,Season-09
+rachel,0.9007,Surprise,Episode-22-The One With The Donor,Season-09
+rachel,0.7759,Surprise,Episode-23-09x24 - The One In Barbados,Season-09
+rachel,0.9839,Surprise,Episode-01-The One After Joey And Rachel Kiss,Season-10
+rachel,0.3307,Surprise,Episode-02-The One Where Ross Is Fine,Season-10
+rachel,0.9781,Sad,Episode-03-The One With Ross' Tan,Season-10
+rachel,0.9627,Surprise,Episode-04-The One With The Cake,Season-10
+rachel,0.9906,Surprise,Episode-05-The One Where Rachel's Sister Baby-sits,Season-10
+rachel,0.5106,Surprise,Episode-06-The One With Ross' Grant,Season-10
+rachel,-0.0038,Surprise,Episode-07-The One With The Home Study,Season-10
+rachel,0.5423,Sad,Episode-08-The One With The Late Thanksgiving,Season-10
+rachel,0.9868,Surprise,Episode-09-The One With The Birth Mother,Season-10
+rachel,0.9169,Fear,Episode-10-The One Where Chandler Gets Caught,Season-10
+rachel,0.9598,Surprise,Episode-11-The One Where The Stripper Cries,Season-10
+rachel,0.9354,Sad,Episode-12-The One With Phoebe's Wedding,Season-10
+rachel,0.9708,Surprise,Episode-13-The One Where Joey Speaks French,Season-10
+rachel,0.9893,Fear,Episode-14-The One With Princess Consuela,Season-10
+rachel,0.9559,Fear,Episode-15-The One Where Estelle Dies,Season-10
+monica,0.9756,Surprise,Episode-01-The One Where Monica Gets a New Roommate (The Pilot),Season-01
+monica,0.3948,Fear,Episode-02-The One With the Sonogram at the End,Season-01
+monica,0.9424,Surprise,Episode-03-The One With the Thumb,Season-01
+monica,0.9842,Surprise,Episode-04-The One With George Stephanopoulos,Season-01
+monica,0.8934,Surprise,Episode-05-The One With the East German Laundry Detergent,Season-01
+monica,0.25,Fear,Episode-06-The One With the Butt,Season-01
+monica,0.296,Surprise,Episode-07-The One With the Blackout,Season-01
+monica,0.7717,Surprise,Episode-08-The One Where Nana Dies Twice,Season-01
+monica,0.7269,Sad,Episode-09-The One where Underdog Gets Away,Season-01
+monica,0.5423,Surprise,Episode-10-The One With the Monkey,Season-01
+monica,0.9293,Surprise,Episode-11-The One With Mrs. Bing,Season-01
+monica,0.6712,Fear,Episode-12-The One With the Dozen Lasagnas,Season-01
+monica,0.4588,Surprise,Episode-13-The One With the Boobies,Season-01
+monica,0.6908,Surprise,Episode-14-The One With the Candy Hearts,Season-01
+monica,0.986,Fear,Episode-15-The One With the Stoned Guy,Season-01
+monica,0.0,Fear,"Episode-16-The One With Two Parts, Part 1",Season-01
+monica,-0.9008,Sad,"Episode-17-The One With Two Parts, Part 2",Season-01
+monica,0.9001,Sad,Episode-18-The One With All The Poker,Season-01
+monica,0.9578,Surprise,Episode-19-The One Where the Monkey Gets Away,Season-01
+monica,0.7906,Surprise,Episode-20-The One With the Evil Orthodontist,Season-01
+monica,0.2516,Surprise,Episode-21-The One With The Fake Monica,Season-01
+monica,0.8442,Surprise,Episode-22-The One With the Ick Factor,Season-01
+monica,0.8481,Sad,Episode-23-The One With the Birth,Season-01
+monica,0.9621,Surprise,Episode-24-The One Where Rachel Finds Out,Season-01
+monica,0.3729,Surprise,Episode-01-The One With Ross' New Girlfriend,Season-02
+monica,0.5594,Surprise,Episode-02-The One With the Breast Milk,Season-02
+monica,0.8696,Surprise,Episode-03-The One Where Mr. Heckles Dies,Season-02
+monica,-0.5423,Sad,Episode-04-The One With Phoebe's Husband,Season-02
+monica,0.8689,Fear,Episode-05-The One With Five Steaks and an Eggplant,Season-02
+monica,0.9473,Surprise,Episode-06-The One With the Baby on the Bus,Season-02
+monica,-0.3612,Surprise,Episode-07-The One Where Ross Finds Out,Season-02
+monica,0.9509,Surprise,Episode-08-The One With the List,Season-02
+monica,-0.6453,Surprise,Episode-09-The One With Phoebe's Dad,Season-02
+monica,0.296,Surprise,Episode-10-The One With Russ,Season-02
+monica,0.947,Surprise,Episode-11-The One With the Lesbian Wedding,Season-02
+monica,-0.5106,Surprise,Episode-12-02x13 - The One After the Superbowl,Season-02
+monica,0.5563,Surprise,Episode-14-The One With the Prom Video,Season-02
+monica,0.9201,Surprise,Episode-15-The One Where Rachel and Ross... You Know,Season-02
+monica,0.9779,Sad,Episode-16-The One Where Joey Moves Out,Season-02
+monica,0.7906,Sad,Episode-17-The One Where Eddie Moves In,Season-02
+monica,0.5908,Sad,Episode-18-The One Where Dr. Remore Dies,Season-02
+monica,0.7964,Surprise,Episode-19-The One Where Eddie Won't Go,Season-02
+monica,0.9521,Surprise,Episode-20-The One Where Old Yeller Dies,Season-02
+monica,0.1189,Sad,Episode-21-The One With the Two Bullies,Season-02
+monica,0.9479,Fear,Episode-22-The One With the Two Parties,Season-02
+monica,0.8992,Sad,Episode-23-The One With the Chicken Pox,Season-02
+monica,0.8678,Surprise,Episode-24-The One With Barry and Mindy's Wedding,Season-02
+monica,-0.6705,Surprise,Episode-01-The One With the Princess Leia Fantasy,Season-03
+monica,0.9712,Fear,Episode-02-The One Where No-one's Ready,Season-03
+monica,0.5423,Surprise,Episode-03-The One With the Jam,Season-03
+monica,0.4939,Surprise,Episode-04-The One with the Metaphorical Tunnel,Season-03
+monica,0.2298,Surprise,Episode-05-The One With Frank Jr.,Season-03
+monica,0.9472,Surprise,Episode-06-The One With The Flashback,Season-03
+monica,-0.5106,Sad,Episode-07-The One With the Race Car Bed,Season-03
+monica,0.7783,Surprise,Episode-08-The One With The Giant Poking Device,Season-03
+monica,-0.3612,Surprise,Episode-09-The One With The Football,Season-03
+monica,0.3744,Surprise,Episode-10-The One Where Rachel Quits,Season-03
+monica,0.7783,Surprise,Episode-11-The One Where Chandler Can’t Remember Which Sister,Season-03
+monica,0.9509,Surprise,Episode-12-The One With All The Jealousy,Season-03
+monica,0.9683,Surprise,Episode-13-The One Where Monica and Richard Are Friends,Season-03
+monica,-0.5719,Surprise,Episode-14-The One With Phoebe’s Ex-Partner,Season-03
+monica,0.9317,Surprise,Episode-15-The One Where Ross and Rachel Take A Break,Season-03
+monica,0.8366,Surprise,Episode-16-The One The Morning After,Season-03
+monica,-0.6475,Surprise,Episode-17-The One Without The Ski Trip,Season-03
+monica,0.743,Fear,Episode-18-The One With The Hypnosis Tape,Season-03
+monica,0.9313,Fear,Episode-19-The One With The Tiny T-shirt,Season-03
+monica,0.1171,Fear,Episode-20-The One With The Dollhouse,Season-03
+monica,0.9238,Surprise,Episode-21-The One With A Chick And A Duck,Season-03
+monica,-0.1779,Fear,Episode-22-The One With The Screamer,Season-03
+monica,0.8944,Surprise,Episode-23-The One With Ross's Thing,Season-03
+monica,-0.6627,Surprise,Episode-24-The One With The Ultimate Fighting Champion,Season-03
+monica,-0.1531,Fear,Episode-25-The One At The Beach,Season-03
+monica,0.4939,Sad,Episode-01-The One With The Jellyfish,Season-04
+monica,0.9524,Fear,Episode-02-The One With The Cat,Season-04
+monica,0.9652,Surprise,Episode-03-The One With The ‘Cuffs,Season-04
+monica,0.8176,Surprise,Episode-04-The One With The Ballroom Dancing,Season-04
+monica,-0.8126,Surprise,Episode-05-The One With Joey's New Girlfriend,Season-04
+monica,0.9509,Fear,Episode-06-The One With The Dirty Girl,Season-04
+monica,0.4767,Surprise,Episode-07-The One Where Chandler Crosses a Line,Season-04
+monica,0.9186,Surprise,Episode-08-The One With Chandler in a Box,Season-04
+monica,0.9501,Fear,Episode-09-The One Where They’re Gonna PARTY!,Season-04
+monica,0.9769,Fear,Episode-10-The One With The Girl From Poughkeepsie,Season-04
+monica,0.868,Fear,Episode-11-The One With Phoebe's Uterus,Season-04
+monica,-0.1531,Surprise,Episode-12-The One With The Embryos,Season-04
+monica,0.918,Surprise,Episode-13-The One With Rachel’s Crush,Season-04
+monica,0.9038,Surprise,Episode-14-The One With Joey’s Dirty Day,Season-04
+monica,-0.1779,Fear,Episode-15-The One With All The Rugby,Season-04
+monica,0.3612,Surprise,Episode-16-The One With The Fake Party,Season-04
+monica,0.9807,Fear,Episode-17-The One With The Free p0rn,Season-04
+monica,-0.4588,Sad,Episode-18-The One With Rachel’s New Dress,Season-04
+monica,0.4588,Surprise,Episode-19-The One With All The Haste,Season-04
+monica,-0.5106,Fear,Episode-20-The One With All the Wedding Dresses,Season-04
+monica,0.836,Surprise,Episode-21-The One With The Invitation,Season-04
+monica,0.9403,Surprise,Episode-22-The One With The Worst Best Man Ever,Season-04
+monica,0.9672,Fear,Episode-23-04x24 - The One With Ross’s Wedding Parts I and II,Season-04
+monica,0.9552,Surprise,Episode-01-The One After Ross Says Rachel,Season-05
+monica,0.9638,Surprise,Episode-02-The One With All The Kissing,Season-05
+monica,0.9781,Surprise,Episode-03-The One Hundredth,Season-05
+monica,0.9627,Surprise,Episode-04-The One Where Phoebe Hates PBS,Season-05
+monica,0.9753,Fear,Episode-05-The One With All the Kips,Season-05
+monica,0.9588,Fear,Episode-06-The One With The Yeti,Season-05
+monica,0.9517,Surprise,Episode-07-The One Where Ross Moves In,Season-05
+monica,0.9709,Sad,Episode-08-The One With The Thanksgiving Flashbacks,Season-05
+monica,0.8066,Surprise,Episode-09-The One With Ross's Sandwich,Season-05
+monica,0.9205,Surprise,Episode-10-The One With The Inappropriate Sister,Season-05
+monica,0.5719,Surprise,Episode-11-The One With All The Resolutions,Season-05
+monica,0.5314,Surprise,Episode-12-The One With Chandler's Work Laugh,Season-05
+monica,0.9409,Surprise,Episode-13-The One With Joey's Bag,Season-05
+monica,0.8126,Surprise,Episode-14-The One Where Everyone Finds Out,Season-05
+monica,0.8238,Surprise,Episode-15-The One With The Girl Who Hits Joey,Season-05
+monica,0.128,Surprise,Episode-16-The One With A Cop,Season-05
+monica,0.8399,Surprise,Episode-17-The One With Rachel's Inappropriate Kiss,Season-05
+monica,0.8685,Surprise,Episode-18-The One Where Rachel Smokes,Season-05
+monica,0.9739,Sad,Episode-19-The One Where Ross Can't Flirt,Season-05
+monica,0.6658,Fear,Episode-20-The One With The Ride Along,Season-05
+monica,0.8957,Sad,Episode-21-The One With The Ball,Season-05
+monica,0.4767,Fear,Episode-22-The One With Joey's Big Break,Season-05
+monica,0.9001,Fear,Episode-23-05x24 - The One In Vegas,Season-05
+monica,-0.4588,Surprise,Episode-01-The One After Vegas,Season-06
+monica,-0.7363,Sad,Episode-02-The One Where Ross Hugs Rachel,Season-06
+monica,0.9623,Fear,Episode-03-The One With Ross’s Denial,Season-06
+monica,0.6908,Surprise,Episode-04-The One Where Joey Loses His Insurance,Season-06
+monica,0.9758,Fear,Episode-05-The One With Joey’s Porsche,Season-06
+monica,0.4162,Surprise,Episode-06-The One The Last Night,Season-06
+monica,0.8555,Surprise,Episode-07-The One Where Phoebe Runs,Season-06
+monica,0.0314,Surprise,Episode-08-The One With Ross’s Teeth,Season-06
+monica,0.936,Surprise,Episode-09-The One Where Ross Got High,Season-06
+monica,0.8187,Surprise,Episode-10-The One With The Routinue,Season-06
+monica,0.9762,Sad,Episode-11-The One With The Apothecary Table,Season-06
+monica,-0.2763,Fear,Episode-12-The One With The Joke,Season-06
+monica,-0.9866,Sad,Episode-13-The One With Rachel’s Sister,Season-06
+monica,-0.9518,Fear,Episode-14-The One Where Chandler Can’t Cry,Season-06
+monica,0.9666,Surprise,Episode-15-06x16 - The One That Could Have Been,Season-06
+monica,0.9201,Surprise,Episode-17-The One With The Unagi,Season-06
+monica,0.7579,Fear,Episode-18-The One Where Ross Dates A Student,Season-06
+monica,0.991,Surprise,Episode-19-The One With Joey’s Fridge,Season-06
+monica,-0.5267,Sad,Episode-20-The One With Mac and C.H.E.E.S.E.,Season-06
+monica,0.8368,Surprise,Episode-21-The One Where Ross Meets Elizabeth’s Dad,Season-06
+monica,0.9246,Sad,Episode-22-The One Where Paul’s The Man,Season-06
+monica,0.0,Angry,Episode-23-The One With The Ring,Season-06
+monica,0.9856,Surprise,Episode-24-06x25 - The One With The Proposal,Season-06
+monica,0.9677,Fear,Episode-01-The One With Monica’s Thunder,Season-07
+monica,0.9627,Fear,Episode-02-The One With Rachel’s Book,Season-07
+monica,0.9603,Surprise,Episode-03-The One With Phoebe’s Cookies,Season-07
+monica,0.8225,Surprise,Episode-04-The One With Rachel’s Assistant,Season-07
+monica,0.959,Surprise,Episode-05-The One With The Engagement Picture,Season-07
+monica,0.9599,Surprise,Episode-06-The One With The Nap Partners,Season-07
+monica,-0.4432,Fear,Episode-07-The One With Ross’s Book,Season-07
+monica,-0.34,Fear,Episode-08-The One Where Chandler Doesn’t Like Dogs,Season-07
+monica,0.0407,Surprise,Episode-09-The One With All The Candy,Season-07
+monica,0.3818,Fear,Episode-10-The One With the Holiday Armadillo,Season-07
+monica,0.8891,Surprise,Episode-11-The One With All The Cheesecakes,Season-07
+monica,0.7906,Surprise,Episode-12-The One Where They’re Up All Night,Season-07
+monica,0.5423,Surprise,Episode-13-The One Where Rosita Dies,Season-07
+monica,0.9553,Fear,Episode-14-The One Where They All Turn Thirty,Season-07
+monica,0.895,Surprise,Episode-15-The One With Joey’s New Brain,Season-07
+monica,-0.4588,Surprise,Episode-16-The One With The Truth About London,Season-07
+monica,0.83,Fear,Episode-17-The One With The Cheap Wedding Dress,Season-07
+monica,0.959,Surprise,Episode-18-The One With Joey’s Award,Season-07
+monica,0.9288,Surprise,Episode-19-The One With Ross and Monica’s Cousin,Season-07
+monica,0.8069,Fear,Episode-20-The One With Rachel’s Big Kiss,Season-07
+monica,0.9465,Surprise,Episode-21-The One With The Vows,Season-07
+monica,0.5994,Fear,Episode-22-The One With Chandler’s Dad,Season-07
+monica,0.9723,Surprise,Episode-23-07x24 - The One With Chandler and Monica’s Wedding,Season-07
+monica,0.9698,Fear,Episode-01-The One After I Do,Season-08
+monica,0.8731,Fear,Episode-02-The One With The Red Sweater,Season-08
+monica,0.8402,Surprise,Episode-03-The One Where Rachel Tells…,Season-08
+monica,0.9607,Fear,Episode-04-The One With The Videotape,Season-08
+monica,-0.6124,Surprise,Episode-05-The One With Rachel’s Date,Season-08
+monica,0.9685,Surprise,Episode-06-The One With The Halloween Party,Season-08
+monica,0.4767,Surprise,Episode-07-The One With The Stain,Season-08
+monica,-0.1531,Fear,Episode-08-The One With The Stripper,Season-08
+monica,0.9913,Fear,Episode-09-The One With The Rumor,Season-08
+monica,0.8891,Surprise,Episode-10-The One With Monica’s Boots,Season-08
+monica,-0.1027,Surprise,Episode-11-The One With Ross’ Big Step Forward,Season-08
+monica,-0.5267,Fear,Episode-12-The One Where Joey Dates Rachel,Season-08
+monica,0.8876,Surprise,Episode-13-The One Where Chandler Takes a Bath,Season-08
+monica,0.0516,Fear,Episode-14-The One With The Secret Closet,Season-08
+monica,0.9254,Surprise,Episode-15-The One With The Birthing Video,Season-08
+monica,0.9169,Surprise,Episode-16-The One Where Joey Tells Rachel,Season-08
+monica,0.4397,Surprise,Episode-17-The One With The Tea Leaves,Season-08
+monica,0.5423,Surprise,Episode-18-The One In Massapequa,Season-08
+monica,0.7506,Surprise,Episode-19-The One With Joey’s Interview,Season-08
+monica,0.6705,Sad,Episode-20-The One With The Baby Shower,Season-08
+monica,-0.9404,Sad,Episode-21-The One With The Cooking Class,Season-08
+monica,0.8991,Surprise,Episode-22-The One Where Rachel Is Late,Season-08
+monica,0.923,Surprise,Episode-23-08x24 - The One Where Rachel Has A Baby,Season-08
+monica,0.3818,Surprise,Episode-01-The One Where No One Proposes,Season-09
+monica,0.4943,Surprise,Episode-02-The One Where Emma Cries,Season-09
+monica,0.9396,Surprise,Episode-03-The One With The Pediatrician,Season-09
+monica,0.5708,Surprise,Episode-04-The One With The Sharks,Season-09
+monica,0.8492,Sad,Episode-05-The One With Phoebe's Birthday Dinner,Season-09
+monica,0.975,Surprise,Episode-06-The One With The Male Nanny (200th episode),Season-09
+monica,-0.6808,Fear,Episode-07-The One With Ross's Inappropriate Song,Season-09
+monica,0.9618,Surprise,Episode-08-The One With Rachel's Other Sister,Season-09
+monica,0.8356,Surprise,Episode-09-The One With Rachel’s Phone Number,Season-09
+monica,0.9025,Surprise,Episode-10-The One With Christmas In Tulsa,Season-09
+monica,0.8912,Sad,Episode-11-The One Where Rachel Goes Back To Work,Season-09
+monica,0.9565,Happy,Episode-12-The One With Phoebe's Rats,Season-09
+monica,0.9197,Surprise,Episode-13-The One Where Monica Sings,Season-09
+monica,-0.0772,Surprise,Episode-14-The One With the Blind Dates,Season-09
+monica,0.0665,Surprise,Episode-15-The One With The Mugging,Season-09
+monica,0.576,Fear,Episode-16-The One With The Boob Job,Season-09
+monica,0.1477,Fear,Episode-17-The One With The Memorial Service,Season-09
+monica,0.9652,Surprise,Episode-18-The One With The Lottery,Season-09
+monica,0.6786,Surprise,Episode-19-The One With Rachel's Dream,Season-09
+monica,-0.7003,Surprise,Episode-20-The One With The Soap Opera Party,Season-09
+monica,0.9712,Surprise,Episode-21- The One With The Fertility Test,Season-09
+monica,0.9749,Surprise,Episode-22-The One With The Donor,Season-09
+monica,0.7078,Surprise,Episode-23-09x24 - The One In Barbados,Season-09
+monica,0.7579,Surprise,Episode-01-The One After Joey And Rachel Kiss,Season-10
+monica,0.9694,Surprise,Episode-02-The One Where Ross Is Fine,Season-10
+monica,-0.8658,Surprise,Episode-03-The One With Ross' Tan,Season-10
+monica,0.7517,Fear,Episode-04-The One With The Cake,Season-10
+monica,0.8885,Surprise,Episode-05-The One Where Rachel's Sister Baby-sits,Season-10
+monica,-0.926,Surprise,Episode-06-The One With Ross' Grant,Season-10
+monica,0.6629,Fear,Episode-07-The One With The Home Study,Season-10
+monica,0.8235,Sad,Episode-08-The One With The Late Thanksgiving,Season-10
+monica,0.98,Surprise,Episode-09-The One With The Birth Mother,Season-10
+monica,0.9811,Surprise,Episode-10-The One Where Chandler Gets Caught,Season-10
+monica,-0.7674,Surprise,Episode-11-The One Where The Stripper Cries,Season-10
+monica,0.6051,Surprise,Episode-12-The One With Phoebe's Wedding,Season-10
+monica,0.9001,Surprise,Episode-13-The One Where Joey Speaks French,Season-10
+monica,0.9571,Sad,Episode-14-The One With Princess Consuela,Season-10
+monica,0.0397,Surprise,Episode-15-The One Where Estelle Dies,Season-10
+chandler,0.4588,Fear,Episode-01-The One Where Monica Gets a New Roommate (The Pilot),Season-01
+chandler,-0.6124,Fear,Episode-02-The One With the Sonogram at the End,Season-01
+chandler,0.6124,Surprise,Episode-03-The One With the Thumb,Season-01
+chandler,0.8074,Surprise,Episode-04-The One With George Stephanopoulos,Season-01
+chandler,0.9022,Surprise,Episode-05-The One With the East German Laundry Detergent,Season-01
+chandler,0.9856,Surprise,Episode-06-The One With the Butt,Season-01
+chandler,0.891,Fear,Episode-07-The One With the Blackout,Season-01
+chandler,0.9648,Surprise,Episode-08-The One Where Nana Dies Twice,Season-01
+chandler,0.9784,Surprise,Episode-09-The One where Underdog Gets Away,Season-01
+chandler,-0.5221,Surprise,Episode-10-The One With the Monkey,Season-01
+chandler,-0.804,Surprise,Episode-11-The One With Mrs. Bing,Season-01
+chandler,-0.7408,Surprise,Episode-12-The One With the Dozen Lasagnas,Season-01
+chandler,0.3353,Surprise,Episode-13-The One With the Boobies,Season-01
+chandler,0.6637,Sad,Episode-14-The One With the Candy Hearts,Season-01
+chandler,0.9668,Sad,Episode-15-The One With the Stoned Guy,Season-01
+chandler,0.8754,Fear,"Episode-16-The One With Two Parts, Part 1",Season-01
+chandler,0.8481,Surprise,"Episode-17-The One With Two Parts, Part 2",Season-01
+chandler,0.695,Fear,Episode-18-The One With All The Poker,Season-01
+chandler,0.2732,Surprise,Episode-19-The One Where the Monkey Gets Away,Season-01
+chandler,0.927,Surprise,Episode-20-The One With the Evil Orthodontist,Season-01
+chandler,0.0,Sad,Episode-21-The One With The Fake Monica,Season-01
+chandler,0.9118,Fear,Episode-22-The One With the Ick Factor,Season-01
+chandler,0.7717,Surprise,Episode-23-The One With the Birth,Season-01
+chandler,-0.5574,Fear,Episode-24-The One Where Rachel Finds Out,Season-01
+chandler,0.8316,Surprise,Episode-01-The One With Ross' New Girlfriend,Season-02
+chandler,0.7783,Fear,Episode-02-The One With the Breast Milk,Season-02
+chandler,0.9843,Fear,Episode-03-The One Where Mr. Heckles Dies,Season-02
+chandler,0.5859,Surprise,Episode-04-The One With Phoebe's Husband,Season-02
+chandler,0.7872,Surprise,Episode-05-The One With Five Steaks and an Eggplant,Season-02
+chandler,0.9118,Sad,Episode-06-The One With the Baby on the Bus,Season-02
+chandler,-0.2849,Sad,Episode-07-The One Where Ross Finds Out,Season-02
+chandler,0.8225,Sad,Episode-08-The One With the List,Season-02
+chandler,0.8119,Surprise,Episode-09-The One With Phoebe's Dad,Season-02
+chandler,0.8326,Surprise,Episode-10-The One With Russ,Season-02
+chandler,0.91,Fear,Episode-11-The One With the Lesbian Wedding,Season-02
+chandler,0.9612,Surprise,Episode-12-02x13 - The One After the Superbowl,Season-02
+chandler,0.9105,Surprise,Episode-14-The One With the Prom Video,Season-02
+chandler,0.3182,Fear,Episode-15-The One Where Rachel and Ross... You Know,Season-02
+chandler,0.6486,Sad,Episode-16-The One Where Joey Moves Out,Season-02
+chandler,0.9601,Surprise,Episode-17-The One Where Eddie Moves In,Season-02
+chandler,0.334,Surprise,Episode-18-The One Where Dr. Remore Dies,Season-02
+chandler,-0.0296,Surprise,Episode-19-The One Where Eddie Won't Go,Season-02
+chandler,0.5256,Surprise,Episode-20-The One Where Old Yeller Dies,Season-02
+chandler,0.8335,Surprise,Episode-21-The One With the Two Bullies,Season-02
+chandler,0.6908,Surprise,Episode-22-The One With the Two Parties,Season-02
+chandler,0.4522,Surprise,Episode-23-The One With the Chicken Pox,Season-02
+chandler,-0.5908,Surprise,Episode-24-The One With Barry and Mindy's Wedding,Season-02
+chandler,-0.0258,Surprise,Episode-01-The One With the Princess Leia Fantasy,Season-03
+chandler,-0.9467,Fear,Episode-02-The One Where No-one's Ready,Season-03
+chandler,0.6486,Fear,Episode-03-The One With the Jam,Season-03
+chandler,0.3462,Sad,Episode-04-The One with the Metaphorical Tunnel,Season-03
+chandler,0.9413,Fear,Episode-05-The One With Frank Jr.,Season-03
+chandler,0.9746,Surprise,Episode-06-The One With The Flashback,Season-03
+chandler,0.5849,Surprise,Episode-07-The One With the Race Car Bed,Season-03
+chandler,-0.296,Surprise,Episode-08-The One With The Giant Poking Device,Season-03
+chandler,0.93,Surprise,Episode-09-The One With The Football,Season-03
+chandler,-0.7548,Fear,Episode-10-The One Where Rachel Quits,Season-03
+chandler,0.9465,Surprise,Episode-11-The One Where Chandler Can’t Remember Which Sister,Season-03
+chandler,0.4939,Fear,Episode-12-The One With All The Jealousy,Season-03
+chandler,0.7003,Surprise,Episode-13-The One Where Monica and Richard Are Friends,Season-03
+chandler,0.9788,Surprise,Episode-14-The One With Phoebe’s Ex-Partner,Season-03
+chandler,0.6908,Fear,Episode-15-The One Where Ross and Rachel Take A Break,Season-03
+chandler,0.471,Surprise,Episode-16-The One The Morning After,Season-03
+chandler,-0.5867,Surprise,Episode-17-The One Without The Ski Trip,Season-03
+chandler,0.7429,Surprise,Episode-18-The One With The Hypnosis Tape,Season-03
+chandler,0.7759,Surprise,Episode-19-The One With The Tiny T-shirt,Season-03
+chandler,0.9642,Surprise,Episode-20-The One With The Dollhouse,Season-03
+chandler,0.802,Surprise,Episode-21-The One With A Chick And A Duck,Season-03
+chandler,0.25,Surprise,Episode-22-The One With The Screamer,Season-03
+chandler,0.9067,Surprise,Episode-23-The One With Ross's Thing,Season-03
+chandler,0.4703,Fear,Episode-24-The One With The Ultimate Fighting Champion,Season-03
+chandler,-0.8009,Surprise,Episode-25-The One At The Beach,Season-03
+chandler,0.766,Surprise,Episode-01-The One With The Jellyfish,Season-04
+chandler,0.4404,Surprise,Episode-02-The One With The Cat,Season-04
+chandler,0.9728,Surprise,Episode-03-The One With The ‘Cuffs,Season-04
+chandler,0.7096,Sad,Episode-04-The One With The Ballroom Dancing,Season-04
+chandler,0.8498,Surprise,Episode-05-The One With Joey's New Girlfriend,Season-04
+chandler,0.9871,Fear,Episode-06-The One With The Dirty Girl,Season-04
+chandler,-0.8762,Surprise,Episode-07-The One Where Chandler Crosses a Line,Season-04
+chandler,-0.5845,Sad,Episode-08-The One With Chandler in a Box,Season-04
+chandler,0.6436,Surprise,Episode-09-The One Where They’re Gonna PARTY!,Season-04
+chandler,0.9502,Surprise,Episode-10-The One With The Girl From Poughkeepsie,Season-04
+chandler,0.891,Sad,Episode-11-The One With Phoebe's Uterus,Season-04
+chandler,0.0258,Fear,Episode-12-The One With The Embryos,Season-04
+chandler,0.296,Fear,Episode-13-The One With Rachel’s Crush,Season-04
+chandler,-0.4588,Fear,Episode-14-The One With Joey’s Dirty Day,Season-04
+chandler,0.1263,Surprise,Episode-15-The One With All The Rugby,Season-04
+chandler,-0.1779,Surprise,Episode-16-The One With The Fake Party,Season-04
+chandler,0.9871,Surprise,Episode-17-The One With The Free p0rn,Season-04
+chandler,0.6557,Surprise,Episode-18-The One With Rachel’s New Dress,Season-04
+chandler,0.9746,Fear,Episode-19-The One With All The Haste,Season-04
+chandler,0.9285,Surprise,Episode-20-The One With All the Wedding Dresses,Season-04
+chandler,0.8658,Fear,Episode-21-The One With The Invitation,Season-04
+chandler,0.9658,Surprise,Episode-22-The One With The Worst Best Man Ever,Season-04
+chandler,-0.5356,Fear,Episode-23-04x24 - The One With Ross’s Wedding Parts I and II,Season-04
+chandler,-0.3818,Sad,Episode-01-The One After Ross Says Rachel,Season-05
+chandler,0.8932,Fear,Episode-02-The One With All The Kissing,Season-05
+chandler,0.8542,Surprise,Episode-03-The One Hundredth,Season-05
+chandler,0.9887,Surprise,Episode-04-The One Where Phoebe Hates PBS,Season-05
+chandler,0.3774,Surprise,Episode-05-The One With All the Kips,Season-05
+chandler,0.4854,Surprise,Episode-06-The One With The Yeti,Season-05
+chandler,0.4927,Sad,Episode-07-The One Where Ross Moves In,Season-05
+chandler,-0.4186,Sad,Episode-08-The One With The Thanksgiving Flashbacks,Season-05
+chandler,0.5106,Surprise,Episode-09-The One With Ross's Sandwich,Season-05
+chandler,0.6948,Sad,Episode-10-The One With The Inappropriate Sister,Season-05
+chandler,0.9081,Fear,Episode-11-The One With All The Resolutions,Season-05
+chandler,0.7322,Sad,Episode-12-The One With Chandler's Work Laugh,Season-05
+chandler,0.6712,Surprise,Episode-13-The One With Joey's Bag,Season-05
+chandler,0.8206,Surprise,Episode-14-The One Where Everyone Finds Out,Season-05
+chandler,0.9786,Surprise,Episode-15-The One With The Girl Who Hits Joey,Season-05
+chandler,0.2023,Surprise,Episode-16-The One With A Cop,Season-05
+chandler,0.9729,Surprise,Episode-17-The One With Rachel's Inappropriate Kiss,Season-05
+chandler,0.9819,Sad,Episode-18-The One Where Rachel Smokes,Season-05
+chandler,0.9874,Surprise,Episode-19-The One Where Ross Can't Flirt,Season-05
+chandler,0.1027,Fear,Episode-20-The One With The Ride Along,Season-05
+chandler,0.4705,Fear,Episode-21-The One With The Ball,Season-05
+chandler,0.6908,Fear,Episode-22-The One With Joey's Big Break,Season-05
+chandler,0.8807,Sad,Episode-23-05x24 - The One In Vegas,Season-05
+chandler,0.9639,Fear,Episode-01-The One After Vegas,Season-06
+chandler,0.3182,Surprise,Episode-02-The One Where Ross Hugs Rachel,Season-06
+chandler,0.9716,Fear,Episode-03-The One With Ross’s Denial,Season-06
+chandler,0.5279,Fear,Episode-04-The One Where Joey Loses His Insurance,Season-06
+chandler,0.9501,Fear,Episode-05-The One With Joey’s Porsche,Season-06
+chandler,0.8976,Fear,Episode-06-The One The Last Night,Season-06
+chandler,0.9716,Fear,Episode-07-The One Where Phoebe Runs,Season-06
+chandler,0.4062,Surprise,Episode-08-The One With Ross’s Teeth,Season-06
+chandler,0.9904,Sad,Episode-09-The One Where Ross Got High,Season-06
+chandler,0.9549,Sad,Episode-10-The One With The Routinue,Season-06
+chandler,0.9041,Surprise,Episode-11-The One With The Apothecary Table,Season-06
+chandler,0.9684,Surprise,Episode-12-The One With The Joke,Season-06
+chandler,0.9584,Surprise,Episode-13-The One With Rachel’s Sister,Season-06
+chandler,-0.1815,Fear,Episode-14-The One Where Chandler Can’t Cry,Season-06
+chandler,0.9505,Surprise,Episode-15-06x16 - The One That Could Have Been,Season-06
+chandler,-0.5106,Surprise,Episode-17-The One With The Unagi,Season-06
+chandler,0.9754,Fear,Episode-18-The One Where Ross Dates A Student,Season-06
+chandler,0.9935,Surprise,Episode-19-The One With Joey’s Fridge,Season-06
+chandler,0.9908,Fear,Episode-20-The One With Mac and C.H.E.E.S.E.,Season-06
+chandler,0.9253,Surprise,Episode-21-The One Where Ross Meets Elizabeth’s Dad,Season-06
+chandler,0.8658,Fear,Episode-22-The One Where Paul’s The Man,Season-06
+chandler,0.9829,Fear,Episode-23-The One With The Ring,Season-06
+chandler,0.9937,Surprise,Episode-24-06x25 - The One With The Proposal,Season-06
+chandler,0.9022,Fear,Episode-01-The One With Monica’s Thunder,Season-07
+chandler,0.9638,Fear,Episode-02-The One With Rachel’s Book,Season-07
+chandler,0.8771,Fear,Episode-03-The One With Phoebe’s Cookies,Season-07
+chandler,-0.6963,Sad,Episode-04-The One With Rachel’s Assistant,Season-07
+chandler,0.9042,Fear,Episode-05-The One With The Engagement Picture,Season-07
+chandler,0.7208,Surprise,Episode-06-The One With The Nap Partners,Season-07
+chandler,0.9423,Surprise,Episode-07-The One With Ross’s Book,Season-07
+chandler,-0.937,Sad,Episode-08-The One Where Chandler Doesn’t Like Dogs,Season-07
+chandler,0.975,Fear,Episode-09-The One With All The Candy,Season-07
+chandler,0.4295,Fear,Episode-10-The One With the Holiday Armadillo,Season-07
+chandler,-0.8744,Fear,Episode-11-The One With All The Cheesecakes,Season-07
+chandler,0.7783,Fear,Episode-12-The One Where They’re Up All Night,Season-07
+chandler,0.6908,Surprise,Episode-13-The One Where Rosita Dies,Season-07
+chandler,0.8487,Fear,Episode-14-The One Where They All Turn Thirty,Season-07
+chandler,0.8074,Surprise,Episode-15-The One With Joey’s New Brain,Season-07
+chandler,0.9853,Surprise,Episode-16-The One With The Truth About London,Season-07
+chandler,0.9716,Fear,Episode-17-The One With The Cheap Wedding Dress,Season-07
+chandler,0.6249,Fear,Episode-18-The One With Joey’s Award,Season-07
+chandler,0.7783,Surprise,Episode-19-The One With Ross and Monica’s Cousin,Season-07
+chandler,0.5106,Fear,Episode-20-The One With Rachel’s Big Kiss,Season-07
+chandler,0.9452,Surprise,Episode-21-The One With The Vows,Season-07
+chandler,0.868,Fear,Episode-22-The One With Chandler’s Dad,Season-07
+chandler,0.9362,Fear,Episode-23-07x24 - The One With Chandler and Monica’s Wedding,Season-07
+chandler,0.8012,Fear,Episode-01-The One After I Do,Season-08
+chandler,0.836,Fear,Episode-02-The One With The Red Sweater,Season-08
+chandler,0.9413,Sad,Episode-03-The One Where Rachel Tells…,Season-08
+chandler,0.9698,Fear,Episode-04-The One With The Videotape,Season-08
+chandler,0.1779,Surprise,Episode-05-The One With Rachel’s Date,Season-08
+chandler,-0.7089,Fear,Episode-06-The One With The Halloween Party,Season-08
+chandler,0.5574,Surprise,Episode-07-The One With The Stain,Season-08
+chandler,-0.0571,Fear,Episode-08-The One With The Stripper,Season-08
+chandler,0.7096,Surprise,Episode-09-The One With The Rumor,Season-08
+chandler,-0.8785,Fear,Episode-10-The One With Monica’s Boots,Season-08
+chandler,-0.7184,Fear,Episode-11-The One With Ross’ Big Step Forward,Season-08
+chandler,-0.25,Fear,Episode-12-The One Where Joey Dates Rachel,Season-08
+chandler,0.8765,Fear,Episode-13-The One Where Chandler Takes a Bath,Season-08
+chandler,-0.5994,Surprise,Episode-14-The One With The Secret Closet,Season-08
+chandler,0.9442,Surprise,Episode-15-The One With The Birthing Video,Season-08
+chandler,0.9423,Surprise,Episode-16-The One Where Joey Tells Rachel,Season-08
+chandler,0.7269,Surprise,Episode-17-The One With The Tea Leaves,Season-08
+chandler,-0.0717,Fear,Episode-18-The One In Massapequa,Season-08
+chandler,0.8097,Surprise,Episode-19-The One With Joey’s Interview,Season-08
+chandler,0.6486,Sad,Episode-20-The One With The Baby Shower,Season-08
+chandler,0.7003,Fear,Episode-21-The One With The Cooking Class,Season-08
+chandler,0.9153,Surprise,Episode-22-The One Where Rachel Is Late,Season-08
+chandler,0.9849,Surprise,Episode-23-08x24 - The One Where Rachel Has A Baby,Season-08
+chandler,-0.296,Surprise,Episode-01-The One Where No One Proposes,Season-09
+chandler,0.9768,Surprise,Episode-02-The One Where Emma Cries,Season-09
+chandler,0.886,Surprise,Episode-03-The One With The Pediatrician,Season-09
+chandler,0.9719,Surprise,Episode-04-The One With The Sharks,Season-09
+chandler,0.8834,Fear,Episode-05-The One With Phoebe's Birthday Dinner,Season-09
+chandler,0.9315,Surprise,Episode-06-The One With The Male Nanny (200th episode),Season-09
+chandler,0.9022,Fear,Episode-07-The One With Ross's Inappropriate Song,Season-09
+chandler,0.9423,Fear,Episode-08-The One With Rachel's Other Sister,Season-09
+chandler,0.8789,Surprise,Episode-09-The One With Rachel’s Phone Number,Season-09
+chandler,0.9005,Surprise,Episode-10-The One With Christmas In Tulsa,Season-09
+chandler,0.8856,Sad,Episode-11-The One Where Rachel Goes Back To Work,Season-09
+chandler,0.7003,Fear,Episode-12-The One With Phoebe's Rats,Season-09
+chandler,0.7956,Surprise,Episode-13-The One Where Monica Sings,Season-09
+chandler,0.9493,Surprise,Episode-14-The One With the Blind Dates,Season-09
+chandler,0.8694,Surprise,Episode-15-The One With The Mugging,Season-09
+chandler,0.8555,Fear,Episode-16-The One With The Boob Job,Season-09
+chandler,0.9617,Fear,Episode-17-The One With The Memorial Service,Season-09
+chandler,0.8586,Fear,Episode-18-The One With The Lottery,Season-09
+chandler,0.5849,Fear,Episode-19-The One With Rachel's Dream,Season-09
+chandler,0.8885,Sad,Episode-20-The One With The Soap Opera Party,Season-09
+chandler,-0.8136,Surprise,Episode-21- The One With The Fertility Test,Season-09
+chandler,0.9794,Fear,Episode-22-The One With The Donor,Season-09
+chandler,0.986,Fear,Episode-23-09x24 - The One In Barbados,Season-09
+chandler,0.0954,Surprise,Episode-01-The One After Joey And Rachel Kiss,Season-10
+chandler,0.9337,Sad,Episode-02-The One Where Ross Is Fine,Season-10
+chandler,0.8012,Fear,Episode-03-The One With Ross' Tan,Season-10
+chandler,0.5729,Surprise,Episode-04-The One With The Cake,Season-10
+chandler,0.9607,Surprise,Episode-05-The One Where Rachel's Sister Baby-sits,Season-10
+chandler,-0.9201,Surprise,Episode-06-The One With Ross' Grant,Season-10
+chandler,0.7645,Surprise,Episode-07-The One With The Home Study,Season-10
+chandler,0.8698,Sad,Episode-08-The One With The Late Thanksgiving,Season-10
+chandler,0.9432,Fear,Episode-09-The One With The Birth Mother,Season-10
+chandler,0.981,Surprise,Episode-10-The One Where Chandler Gets Caught,Season-10
+chandler,0.3102,Surprise,Episode-11-The One Where The Stripper Cries,Season-10
+chandler,0.8639,Sad,Episode-12-The One With Phoebe's Wedding,Season-10
+chandler,0.8957,Surprise,Episode-13-The One Where Joey Speaks French,Season-10
+chandler,0.4666,Surprise,Episode-14-The One With Princess Consuela,Season-10
+chandler,0.765,Surprise,Episode-15-The One Where Estelle Dies,Season-10
+phoebe,0.6705,Surprise,Episode-01-The One Where Monica Gets a New Roommate (The Pilot),Season-01
+phoebe,0.7184,Fear,Episode-02-The One With the Sonogram at the End,Season-01
+phoebe,0.9617,Fear,Episode-03-The One With the Thumb,Season-01
+phoebe,0.669,Surprise,Episode-04-The One With George Stephanopoulos,Season-01
+phoebe,0.9723,Surprise,Episode-05-The One With the East German Laundry Detergent,Season-01
+phoebe,0.7717,Surprise,Episode-06-The One With the Butt,Season-01
+phoebe,-0.9414,Sad,Episode-07-The One With the Blackout,Season-01
+phoebe,0.9674,Surprise,Episode-08-The One Where Nana Dies Twice,Season-01
+phoebe,0.4754,Sad,Episode-09-The One where Underdog Gets Away,Season-01
+phoebe,0.959,Sad,Episode-10-The One With the Monkey,Season-01
+phoebe,0.7269,Surprise,Episode-11-The One With Mrs. Bing,Season-01
+phoebe,0.9633,Surprise,Episode-12-The One With the Dozen Lasagnas,Season-01
+phoebe,0.9763,Surprise,Episode-13-The One With the Boobies,Season-01
+phoebe,0.2534,Fear,Episode-14-The One With the Candy Hearts,Season-01
+phoebe,0.9774,Surprise,Episode-15-The One With the Stoned Guy,Season-01
+phoebe,0.9371,Surprise,"Episode-16-The One With Two Parts, Part 1",Season-01
+phoebe,0.128,Surprise,"Episode-17-The One With Two Parts, Part 2",Season-01
+phoebe,0.7906,Surprise,Episode-18-The One With All The Poker,Season-01
+phoebe,-0.046,Surprise,Episode-19-The One Where the Monkey Gets Away,Season-01
+phoebe,0.4404,Surprise,Episode-20-The One With the Evil Orthodontist,Season-01
+phoebe,-0.6486,Surprise,Episode-21-The One With The Fake Monica,Season-01
+phoebe,0.9611,Fear,Episode-22-The One With the Ick Factor,Season-01
+phoebe,0.9255,Sad,Episode-23-The One With the Birth,Season-01
+phoebe,0.926,Surprise,Episode-24-The One Where Rachel Finds Out,Season-01
+phoebe,0.9774,Fear,Episode-01-The One With Ross' New Girlfriend,Season-02
+phoebe,-0.5423,Surprise,Episode-02-The One With the Breast Milk,Season-02
+phoebe,0.8887,Sad,Episode-03-The One Where Mr. Heckles Dies,Season-02
+phoebe,0.9627,Surprise,Episode-04-The One With Phoebe's Husband,Season-02
+phoebe,0.4939,Surprise,Episode-05-The One With Five Steaks and an Eggplant,Season-02
+phoebe,0.9062,Sad,Episode-06-The One With the Baby on the Bus,Season-02
+phoebe,0.9827,Fear,Episode-07-The One Where Ross Finds Out,Season-02
+phoebe,0.7096,Sad,Episode-08-The One With the List,Season-02
+phoebe,0.9136,Surprise,Episode-09-The One With Phoebe's Dad,Season-02
+phoebe,0.0258,Surprise,Episode-10-The One With Russ,Season-02
+phoebe,-0.4047,Fear,Episode-11-The One With the Lesbian Wedding,Season-02
+phoebe,-0.0553,Surprise,Episode-12-02x13 - The One After the Superbowl,Season-02
+phoebe,0.4404,Fear,Episode-14-The One With the Prom Video,Season-02
+phoebe,0.2023,Fear,Episode-15-The One Where Rachel and Ross... You Know,Season-02
+phoebe,0.6249,Surprise,Episode-16-The One Where Joey Moves Out,Season-02
+phoebe,0.9732,Surprise,Episode-17-The One Where Eddie Moves In,Season-02
+phoebe,0.9747,Surprise,Episode-18-The One Where Dr. Remore Dies,Season-02
+phoebe,0.4767,Surprise,Episode-19-The One Where Eddie Won't Go,Season-02
+phoebe,0.8393,Surprise,Episode-20-The One Where Old Yeller Dies,Season-02
+phoebe,0.5839,Surprise,Episode-21-The One With the Two Bullies,Season-02
+phoebe,0.9362,Surprise,Episode-22-The One With the Two Parties,Season-02
+phoebe,0.9584,Fear,Episode-23-The One With the Chicken Pox,Season-02
+phoebe,0.9074,Surprise,Episode-24-The One With Barry and Mindy's Wedding,Season-02
+phoebe,0.9824,Fear,Episode-01-The One With the Princess Leia Fantasy,Season-03
+phoebe,0.9217,Fear,Episode-02-The One Where No-one's Ready,Season-03
+phoebe,0.9805,Surprise,Episode-03-The One With the Jam,Season-03
+phoebe,-0.7668,Surprise,Episode-04-The One with the Metaphorical Tunnel,Season-03
+phoebe,0.7076,Fear,Episode-05-The One With Frank Jr.,Season-03
+phoebe,0.8481,Surprise,Episode-06-The One With The Flashback,Season-03
+phoebe,0.7823,Fear,Episode-07-The One With the Race Car Bed,Season-03
+phoebe,0.0772,Surprise,Episode-08-The One With The Giant Poking Device,Season-03
+phoebe,0.4588,Surprise,Episode-09-The One With The Football,Season-03
+phoebe,-0.7664,Surprise,Episode-10-The One Where Rachel Quits,Season-03
+phoebe,-0.6705,Surprise,Episode-11-The One Where Chandler Can’t Remember Which Sister,Season-03
+phoebe,-0.128,Surprise,Episode-12-The One With All The Jealousy,Season-03
+phoebe,0.8678,Surprise,Episode-13-The One Where Monica and Richard Are Friends,Season-03
+phoebe,0.6614,Surprise,Episode-14-The One With Phoebe’s Ex-Partner,Season-03
+phoebe,0.9571,Sad,Episode-15-The One Where Ross and Rachel Take A Break,Season-03
+phoebe,0.4927,Surprise,Episode-16-The One The Morning After,Season-03
+phoebe,-0.9484,Surprise,Episode-17-The One Without The Ski Trip,Season-03
+phoebe,0.9708,Surprise,Episode-18-The One With The Hypnosis Tape,Season-03
+phoebe,-0.1779,Surprise,Episode-19-The One With The Tiny T-shirt,Season-03
+phoebe,0.9349,Surprise,Episode-20-The One With The Dollhouse,Season-03
+phoebe,0.9186,Sad,Episode-21-The One With A Chick And A Duck,Season-03
+phoebe,0.3612,Fear,Episode-22-The One With The Screamer,Season-03
+phoebe,0.743,Fear,Episode-23-The One With Ross's Thing,Season-03
+phoebe,0.9118,Fear,Episode-24-The One With The Ultimate Fighting Champion,Season-03
+phoebe,0.9878,Surprise,Episode-25-The One At The Beach,Season-03
+phoebe,0.6124,Surprise,Episode-01-The One With The Jellyfish,Season-04
+phoebe,0.9001,Fear,Episode-02-The One With The Cat,Season-04
+phoebe,0.8809,Surprise,Episode-03-The One With The ‘Cuffs,Season-04
+phoebe,0.7984,Surprise,Episode-04-The One With The Ballroom Dancing,Season-04
+phoebe,0.9866,Surprise,Episode-05-The One With Joey's New Girlfriend,Season-04
+phoebe,0.8326,Surprise,Episode-06-The One With The Dirty Girl,Season-04
+phoebe,0.9529,Surprise,Episode-07-The One Where Chandler Crosses a Line,Season-04
+phoebe,0.4215,Fear,Episode-08-The One With Chandler in a Box,Season-04
+phoebe,0.6597,Fear,Episode-09-The One Where They’re Gonna PARTY!,Season-04
+phoebe,0.4404,Surprise,Episode-10-The One With The Girl From Poughkeepsie,Season-04
+phoebe,0.9593,Fear,Episode-11-The One With Phoebe's Uterus,Season-04
+phoebe,0.9308,Surprise,Episode-12-The One With The Embryos,Season-04
+phoebe,0.9382,Fear,Episode-13-The One With Rachel’s Crush,Season-04
+phoebe,0.9001,Surprise,Episode-14-The One With Joey’s Dirty Day,Season-04
+phoebe,-0.6369,Surprise,Episode-15-The One With All The Rugby,Season-04
+phoebe,0.34,Fear,Episode-16-The One With The Fake Party,Season-04
+phoebe,0.9843,Fear,Episode-17-The One With The Free p0rn,Season-04
+phoebe,0.9738,Fear,Episode-18-The One With Rachel’s New Dress,Season-04
+phoebe,0.9788,Surprise,Episode-19-The One With All The Haste,Season-04
+phoebe,0.8957,Surprise,Episode-20-The One With All the Wedding Dresses,Season-04
+phoebe,0.5267,Surprise,Episode-21-The One With The Invitation,Season-04
+phoebe,0.9552,Surprise,Episode-22-The One With The Worst Best Man Ever,Season-04
+phoebe,0.9888,Surprise,Episode-23-04x24 - The One With Ross’s Wedding Parts I and II,Season-04
+phoebe,-0.5574,Surprise,Episode-01-The One After Ross Says Rachel,Season-05
+phoebe,0.9062,Surprise,Episode-02-The One With All The Kissing,Season-05
+phoebe,0.658,Surprise,Episode-03-The One Hundredth,Season-05
+phoebe,0.9258,Fear,Episode-04-The One Where Phoebe Hates PBS,Season-05
+phoebe,0.3818,Surprise,Episode-05-The One With All the Kips,Season-05
+phoebe,0.9661,Surprise,Episode-06-The One With The Yeti,Season-05
+phoebe,0.8834,Surprise,Episode-07-The One Where Ross Moves In,Season-05
+phoebe,-0.9476,Fear,Episode-08-The One With The Thanksgiving Flashbacks,Season-05
+phoebe,0.8176,Surprise,Episode-09-The One With Ross's Sandwich,Season-05
+phoebe,0.2931,Fear,Episode-10-The One With The Inappropriate Sister,Season-05
+phoebe,0.6292,Fear,Episode-11-The One With All The Resolutions,Season-05
+phoebe,-0.802,Surprise,Episode-12-The One With Chandler's Work Laugh,Season-05
+phoebe,-0.8593,Surprise,Episode-13-The One With Joey's Bag,Season-05
+phoebe,0.9603,Surprise,Episode-14-The One Where Everyone Finds Out,Season-05
+phoebe,0.7931,Surprise,Episode-15-The One With The Girl Who Hits Joey,Season-05
+phoebe,0.9287,Fear,Episode-16-The One With A Cop,Season-05
+phoebe,0.7554,Surprise,Episode-17-The One With Rachel's Inappropriate Kiss,Season-05
+phoebe,0.9201,Surprise,Episode-18-The One Where Rachel Smokes,Season-05
+phoebe,0.7506,Fear,Episode-19-The One Where Ross Can't Flirt,Season-05
+phoebe,0.7293,Sad,Episode-20-The One With The Ride Along,Season-05
+phoebe,0.9919,Sad,Episode-21-The One With The Ball,Season-05
+phoebe,0.4705,Fear,Episode-22-The One With Joey's Big Break,Season-05
+phoebe,0.3641,Surprise,Episode-23-05x24 - The One In Vegas,Season-05
+phoebe,0.743,Fear,Episode-01-The One After Vegas,Season-06
+phoebe,0.966,Surprise,Episode-02-The One Where Ross Hugs Rachel,Season-06
+phoebe,0.2023,Surprise,Episode-03-The One With Ross’s Denial,Season-06
+phoebe,-0.9213,Surprise,Episode-04-The One Where Joey Loses His Insurance,Season-06
+phoebe,0.9706,Fear,Episode-05-The One With Joey’s Porsche,Season-06
+phoebe,-0.0772,Surprise,Episode-06-The One The Last Night,Season-06
+phoebe,-0.2398,Fear,Episode-07-The One Where Phoebe Runs,Season-06
+phoebe,0.9552,Surprise,Episode-08-The One With Ross’s Teeth,Season-06
+phoebe,0.9337,Sad,Episode-09-The One Where Ross Got High,Season-06
+phoebe,0.9584,Surprise,Episode-10-The One With The Routinue,Season-06
+phoebe,0.9733,Surprise,Episode-11-The One With The Apothecary Table,Season-06
+phoebe,0.9536,Surprise,Episode-12-The One With The Joke,Season-06
+phoebe,0.0276,Surprise,Episode-13-The One With Rachel’s Sister,Season-06
+phoebe,-0.4019,Surprise,Episode-14-The One Where Chandler Can’t Cry,Season-06
+phoebe,-0.6493,Fear,Episode-15-06x16 - The One That Could Have Been,Season-06
+phoebe,0.3848,Surprise,Episode-17-The One With The Unagi,Season-06
+phoebe,-0.7184,Surprise,Episode-18-The One Where Ross Dates A Student,Season-06
+phoebe,0.9808,Fear,Episode-19-The One With Joey’s Fridge,Season-06
+phoebe,0.9451,Happy,Episode-20-The One With Mac and C.H.E.E.S.E.,Season-06
+phoebe,0.8934,Surprise,Episode-21-The One Where Ross Meets Elizabeth’s Dad,Season-06
+phoebe,0.9136,Fear,Episode-22-The One Where Paul’s The Man,Season-06
+phoebe,0.5302,Sad,Episode-23-The One With The Ring,Season-06
+phoebe,0.8197,Fear,Episode-24-06x25 - The One With The Proposal,Season-06
+phoebe,0.9613,Fear,Episode-01-The One With Monica’s Thunder,Season-07
+phoebe,0.5719,Surprise,Episode-02-The One With Rachel’s Book,Season-07
+phoebe,0.8625,Fear,Episode-03-The One With Phoebe’s Cookies,Season-07
+phoebe,0.4588,Surprise,Episode-04-The One With Rachel’s Assistant,Season-07
+phoebe,-0.315,Fear,Episode-05-The One With The Engagement Picture,Season-07
+phoebe,0.9712,Surprise,Episode-06-The One With The Nap Partners,Season-07
+phoebe,0.765,Surprise,Episode-07-The One With Ross’s Book,Season-07
+phoebe,0.4767,Fear,Episode-08-The One Where Chandler Doesn’t Like Dogs,Season-07
+phoebe,0.2023,Surprise,Episode-09-The One With All The Candy,Season-07
+phoebe,0.9607,Surprise,Episode-10-The One With the Holiday Armadillo,Season-07
+phoebe,0.9732,Surprise,Episode-11-The One With All The Cheesecakes,Season-07
+phoebe,0.7783,Surprise,Episode-12-The One Where They’re Up All Night,Season-07
+phoebe,0.3182,Fear,Episode-13-The One Where Rosita Dies,Season-07
+phoebe,0.6369,Surprise,Episode-14-The One Where They All Turn Thirty,Season-07
+phoebe,0.9432,Happy,Episode-15-The One With Joey’s New Brain,Season-07
+phoebe,0.9245,Surprise,Episode-16-The One With The Truth About London,Season-07
+phoebe,0.4019,Surprise,Episode-17-The One With The Cheap Wedding Dress,Season-07
+phoebe,0.9297,Surprise,Episode-18-The One With Joey’s Award,Season-07
+phoebe,0.8506,Fear,Episode-19-The One With Ross and Monica’s Cousin,Season-07
+phoebe,0.765,Surprise,Episode-20-The One With Rachel’s Big Kiss,Season-07
+phoebe,0.9559,Surprise,Episode-21-The One With The Vows,Season-07
+phoebe,0.93,Surprise,Episode-22-The One With Chandler’s Dad,Season-07
+phoebe,-0.4215,Surprise,Episode-23-07x24 - The One With Chandler and Monica’s Wedding,Season-07
+phoebe,0.6124,Surprise,Episode-01-The One After I Do,Season-08
+phoebe,0.6016,Surprise,Episode-02-The One With The Red Sweater,Season-08
+phoebe,0.9493,Surprise,Episode-03-The One Where Rachel Tells…,Season-08
+phoebe,0.765,Surprise,Episode-04-The One With The Videotape,Season-08
+phoebe,0.9684,Surprise,Episode-05-The One With Rachel’s Date,Season-08
+phoebe,0.975,Surprise,Episode-06-The One With The Halloween Party,Season-08
+phoebe,0.0,Surprise,Episode-07-The One With The Stain,Season-08
+phoebe,-0.7351,Surprise,Episode-08-The One With The Stripper,Season-08
+phoebe,0.9352,Surprise,Episode-09-The One With The Rumor,Season-08
+phoebe,0.8927,Surprise,Episode-10-The One With Monica’s Boots,Season-08
+phoebe,0.8865,Surprise,Episode-11-The One With Ross’ Big Step Forward,Season-08
+phoebe,-0.296,Surprise,Episode-12-The One Where Joey Dates Rachel,Season-08
+phoebe,-0.7906,Surprise,Episode-13-The One Where Chandler Takes a Bath,Season-08
+phoebe,0.91,Sad,Episode-14-The One With The Secret Closet,Season-08
+phoebe,0.936,Fear,Episode-15-The One With The Birthing Video,Season-08
+phoebe,0.6369,Surprise,Episode-16-The One Where Joey Tells Rachel,Season-08
+phoebe,0.8387,Surprise,Episode-17-The One With The Tea Leaves,Season-08
+phoebe,0.9915,Surprise,Episode-18-The One In Massapequa,Season-08
+phoebe,0.7269,Surprise,Episode-19-The One With Joey’s Interview,Season-08
+phoebe,0.9394,Sad,Episode-20-The One With The Baby Shower,Season-08
+phoebe,0.9701,Surprise,Episode-21-The One With The Cooking Class,Season-08
+phoebe,0.5574,Sad,Episode-22-The One Where Rachel Is Late,Season-08
+phoebe,0.9023,Fear,Episode-23-08x24 - The One Where Rachel Has A Baby,Season-08
+phoebe,0.8625,Surprise,Episode-01-The One Where No One Proposes,Season-09
+phoebe,0.296,Surprise,Episode-02-The One Where Emma Cries,Season-09
+phoebe,0.9938,Fear,Episode-03-The One With The Pediatrician,Season-09
+phoebe,0.2927,Surprise,Episode-04-The One With The Sharks,Season-09
+phoebe,0.8815,Surprise,Episode-05-The One With Phoebe's Birthday Dinner,Season-09
+phoebe,0.943,Surprise,Episode-06-The One With The Male Nanny (200th episode),Season-09
+phoebe,0.9866,Surprise,Episode-07-The One With Ross's Inappropriate Song,Season-09
+phoebe,0.9595,Surprise,Episode-08-The One With Rachel's Other Sister,Season-09
+phoebe,-0.0772,Surprise,Episode-09-The One With Rachel’s Phone Number,Season-09
+phoebe,0.9118,Surprise,Episode-10-The One With Christmas In Tulsa,Season-09
+phoebe,-0.6107,Surprise,Episode-11-The One Where Rachel Goes Back To Work,Season-09
+phoebe,0.5994,Surprise,Episode-12-The One With Phoebe's Rats,Season-09
+phoebe,0.9626,Happy,Episode-13-The One Where Monica Sings,Season-09
+phoebe,0.9762,Surprise,Episode-14-The One With the Blind Dates,Season-09
+phoebe,0.9831,Surprise,Episode-15-The One With The Mugging,Season-09
+phoebe,0.969,Surprise,Episode-16-The One With The Boob Job,Season-09
+phoebe,0.2023,Sad,Episode-17-The One With The Memorial Service,Season-09
+phoebe,0.96,Surprise,Episode-18-The One With The Lottery,Season-09
+phoebe,0.9638,Surprise,Episode-19-The One With Rachel's Dream,Season-09
+phoebe,0.763,Surprise,Episode-20-The One With The Soap Opera Party,Season-09
+phoebe,-0.5719,Sad,Episode-21- The One With The Fertility Test,Season-09
+phoebe,0.9716,Fear,Episode-22-The One With The Donor,Season-09
+phoebe,-0.296,Fear,Episode-23-09x24 - The One In Barbados,Season-09
+phoebe,0.9883,Surprise,Episode-01-The One After Joey And Rachel Kiss,Season-10
+phoebe,0.8126,Surprise,Episode-02-The One Where Ross Is Fine,Season-10
+phoebe,0.9201,Surprise,Episode-03-The One With Ross' Tan,Season-10
+phoebe,0.936,Fear,Episode-04-The One With The Cake,Season-10
+phoebe,-0.9202,Surprise,Episode-05-The One Where Rachel's Sister Baby-sits,Season-10
+phoebe,0.5267,Surprise,Episode-06-The One With Ross' Grant,Season-10
+phoebe,0.9828,Surprise,Episode-07-The One With The Home Study,Season-10
+phoebe,0.969,Surprise,Episode-08-The One With The Late Thanksgiving,Season-10
+phoebe,0.9531,Surprise,Episode-09-The One With The Birth Mother,Season-10
+phoebe,-0.7765,Fear,Episode-10-The One Where Chandler Gets Caught,Season-10
+phoebe,0.3818,Surprise,Episode-11-The One Where The Stripper Cries,Season-10
+phoebe,0.9101,Surprise,Episode-12-The One With Phoebe's Wedding,Season-10
+phoebe,-0.5818,Sad,Episode-13-The One Where Joey Speaks French,Season-10
+phoebe,0.979,Happy,Episode-14-The One With Princess Consuela,Season-10
+phoebe,0.9154,Surprise,Episode-15-The One Where Estelle Dies,Season-10
+joey,-0.1531,Sad,Episode-01-The One Where Monica Gets a New Roommate (The Pilot),Season-01
+joey,-0.7717,Fear,Episode-02-The One With the Sonogram at the End,Season-01
+joey,0.7159,Surprise,Episode-03-The One With the Thumb,Season-01
+joey,-0.3758,Surprise,Episode-04-The One With George Stephanopoulos,Season-01
+joey,0.9931,Surprise,Episode-05-The One With the East German Laundry Detergent,Season-01
+joey,0.7717,Surprise,Episode-06-The One With the Butt,Season-01
+joey,0.5719,Surprise,Episode-07-The One With the Blackout,Season-01
+joey,-0.7351,Surprise,Episode-08-The One Where Nana Dies Twice,Season-01
+joey,0.919,Surprise,Episode-09-The One where Underdog Gets Away,Season-01
+joey,0.046,Surprise,Episode-10-The One With the Monkey,Season-01
+joey,0.7906,Surprise,Episode-11-The One With Mrs. Bing,Season-01
+joey,0.7944,Fear,Episode-12-The One With the Dozen Lasagnas,Season-01
+joey,0.9119,Fear,Episode-13-The One With the Boobies,Season-01
+joey,-0.765,Fear,Episode-14-The One With the Candy Hearts,Season-01
+joey,0.7569,Fear,Episode-15-The One With the Stoned Guy,Season-01
+joey,0.9246,Sad,"Episode-16-The One With Two Parts, Part 1",Season-01
+joey,0.3818,Fear,"Episode-17-The One With Two Parts, Part 2",Season-01
+joey,0.7239,Surprise,Episode-18-The One With All The Poker,Season-01
+joey,-0.3862,Surprise,Episode-19-The One Where the Monkey Gets Away,Season-01
+joey,0.9083,Fear,Episode-20-The One With the Evil Orthodontist,Season-01
+joey,0.8271,Surprise,Episode-21-The One With The Fake Monica,Season-01
+joey,0.8481,Fear,Episode-22-The One With the Ick Factor,Season-01
+joey,0.34,Fear,Episode-23-The One With the Birth,Season-01
+joey,0.9618,Surprise,Episode-24-The One Where Rachel Finds Out,Season-01
+joey,-0.8271,Surprise,Episode-01-The One With Ross' New Girlfriend,Season-02
+joey,0.9338,Surprise,Episode-02-The One With the Breast Milk,Season-02
+joey,0.6908,Surprise,Episode-03-The One Where Mr. Heckles Dies,Season-02
+joey,0.0772,Surprise,Episode-04-The One With Phoebe's Husband,Season-02
+joey,-0.3774,Sad,Episode-05-The One With Five Steaks and an Eggplant,Season-02
+joey,0.9171,Fear,Episode-06-The One With the Baby on the Bus,Season-02
+joey,0.8885,Surprise,Episode-07-The One Where Ross Finds Out,Season-02
+joey,0.5106,Surprise,Episode-08-The One With the List,Season-02
+joey,0.9186,Surprise,Episode-09-The One With Phoebe's Dad,Season-02
+joey,0.5467,Surprise,Episode-10-The One With Russ,Season-02
+joey,-0.9349,Fear,Episode-11-The One With the Lesbian Wedding,Season-02
+joey,0.93,Surprise,Episode-12-02x13 - The One After the Superbowl,Season-02
+joey,0.7931,Surprise,Episode-14-The One With the Prom Video,Season-02
+joey,-0.1531,Surprise,Episode-15-The One Where Rachel and Ross... You Know,Season-02
+joey,0.9631,Surprise,Episode-16-The One Where Joey Moves Out,Season-02
+joey,0.9618,Surprise,Episode-17-The One Where Eddie Moves In,Season-02
+joey,0.9371,Surprise,Episode-18-The One Where Dr. Remore Dies,Season-02
+joey,0.473,Surprise,Episode-19-The One Where Eddie Won't Go,Season-02
+joey,0.872,Surprise,Episode-20-The One Where Old Yeller Dies,Season-02
+joey,0.9167,Surprise,Episode-21-The One With the Two Bullies,Season-02
+joey,0.3612,Fear,Episode-22-The One With the Two Parties,Season-02
+joey,0.9468,Surprise,Episode-23-The One With the Chicken Pox,Season-02
+joey,0.9022,Surprise,Episode-24-The One With Barry and Mindy's Wedding,Season-02
+joey,0.4588,Surprise,Episode-01-The One With the Princess Leia Fantasy,Season-03
+joey,0.6284,Surprise,Episode-02-The One Where No-one's Ready,Season-03
+joey,0.9342,Fear,Episode-03-The One With the Jam,Season-03
+joey,0.9598,Surprise,Episode-04-The One with the Metaphorical Tunnel,Season-03
+joey,-0.501,Surprise,Episode-05-The One With Frank Jr.,Season-03
+joey,0.8694,Fear,Episode-06-The One With The Flashback,Season-03
+joey,0.9165,Surprise,Episode-07-The One With the Race Car Bed,Season-03
+joey,-0.2023,Surprise,Episode-08-The One With The Giant Poking Device,Season-03
+joey,-0.528,Fear,Episode-09-The One With The Football,Season-03
+joey,0.8516,Fear,Episode-10-The One Where Rachel Quits,Season-03
+joey,0.7003,Surprise,Episode-11-The One Where Chandler Can’t Remember Which Sister,Season-03
+joey,-0.128,Surprise,Episode-12-The One With All The Jealousy,Season-03
+joey,-0.2648,Surprise,Episode-13-The One Where Monica and Richard Are Friends,Season-03
+joey,-0.5849,Surprise,Episode-14-The One With Phoebe’s Ex-Partner,Season-03
+joey,0.1494,Fear,Episode-15-The One Where Ross and Rachel Take A Break,Season-03
+joey,-0.1391,Fear,Episode-16-The One The Morning After,Season-03
+joey,0.8402,Surprise,Episode-17-The One Without The Ski Trip,Season-03
+joey,0.4215,Surprise,Episode-18-The One With The Hypnosis Tape,Season-03
+joey,0.967,Surprise,Episode-19-The One With The Tiny T-shirt,Season-03
+joey,0.9698,Surprise,Episode-20-The One With The Dollhouse,Season-03
+joey,0.9313,Surprise,Episode-21-The One With A Chick And A Duck,Season-03
+joey,0.9858,Surprise,Episode-22-The One With The Screamer,Season-03
+joey,0.2006,Surprise,Episode-23-The One With Ross's Thing,Season-03
+joey,-0.8402,Fear,Episode-24-The One With The Ultimate Fighting Champion,Season-03
+joey,0.5574,Fear,Episode-25-The One At The Beach,Season-03
+joey,-0.5105,Surprise,Episode-01-The One With The Jellyfish,Season-04
+joey,0.872,Surprise,Episode-02-The One With The Cat,Season-04
+joey,0.2263,Surprise,Episode-03-The One With The ‘Cuffs,Season-04
+joey,0.9811,Sad,Episode-04-The One With The Ballroom Dancing,Season-04
+joey,0.7351,Surprise,Episode-05-The One With Joey's New Girlfriend,Season-04
+joey,-0.4215,Fear,Episode-06-The One With The Dirty Girl,Season-04
+joey,0.9299,Surprise,Episode-07-The One Where Chandler Crosses a Line,Season-04
+joey,0.875,Surprise,Episode-08-The One With Chandler in a Box,Season-04
+joey,-0.6041,Fear,Episode-09-The One Where They’re Gonna PARTY!,Season-04
+joey,0.6808,Surprise,Episode-10-The One With The Girl From Poughkeepsie,Season-04
+joey,0.128,Fear,Episode-11-The One With Phoebe's Uterus,Season-04
+joey,-0.5859,Fear,Episode-12-The One With The Embryos,Season-04
+joey,0.7906,Fear,Episode-13-The One With Rachel’s Crush,Season-04
+joey,0.4939,Fear,Episode-14-The One With Joey’s Dirty Day,Season-04
+joey,0.25,Surprise,Episode-15-The One With All The Rugby,Season-04
+joey,0.9299,Surprise,Episode-16-The One With The Fake Party,Season-04
+joey,0.7906,Surprise,Episode-17-The One With The Free p0rn,Season-04
+joey,-0.1027,Surprise,Episode-18-The One With Rachel’s New Dress,Season-04
+joey,0.9747,Surprise,Episode-19-The One With All The Haste,Season-04
+joey,-0.4767,Surprise,Episode-20-The One With All the Wedding Dresses,Season-04
+joey,0.0516,Surprise,Episode-21-The One With The Invitation,Season-04
+joey,0.9911,Surprise,Episode-22-The One With The Worst Best Man Ever,Season-04
+joey,0.9512,Surprise,Episode-23-04x24 - The One With Ross’s Wedding Parts I and II,Season-04
+joey,0.4404,Surprise,Episode-01-The One After Ross Says Rachel,Season-05
+joey,-0.6249,Surprise,Episode-02-The One With All The Kissing,Season-05
+joey,0.9076,Fear,Episode-03-The One Hundredth,Season-05
+joey,0.9664,Surprise,Episode-04-The One Where Phoebe Hates PBS,Season-05
+joey,0.0516,Surprise,Episode-05-The One With All the Kips,Season-05
+joey,0.9287,Sad,Episode-06-The One With The Yeti,Season-05
+joey,0.9216,Fear,Episode-07-The One Where Ross Moves In,Season-05
+joey,0.9724,Surprise,Episode-08-The One With The Thanksgiving Flashbacks,Season-05
+joey,0.6124,Surprise,Episode-09-The One With Ross's Sandwich,Season-05
+joey,0.9686,Surprise,Episode-10-The One With The Inappropriate Sister,Season-05
+joey,0.9857,Surprise,Episode-11-The One With All The Resolutions,Season-05
+joey,0.4404,Sad,Episode-12-The One With Chandler's Work Laugh,Season-05
+joey,0.4889,Fear,Episode-13-The One With Joey's Bag,Season-05
+joey,-0.0258,Sad,Episode-14-The One Where Everyone Finds Out,Season-05
+joey,0.93,Surprise,Episode-15-The One With The Girl Who Hits Joey,Season-05
+joey,0.9741,Surprise,Episode-16-The One With A Cop,Season-05
+joey,0.8158,Fear,Episode-17-The One With Rachel's Inappropriate Kiss,Season-05
+joey,0.9549,Surprise,Episode-18-The One Where Rachel Smokes,Season-05
+joey,0.0258,Fear,Episode-19-The One Where Ross Can't Flirt,Season-05
+joey,0.847,Surprise,Episode-20-The One With The Ride Along,Season-05
+joey,0.8059,Surprise,Episode-21-The One With The Ball,Season-05
+joey,-0.8126,Surprise,Episode-22-The One With Joey's Big Break,Season-05
+joey,0.879,Fear,Episode-23-05x24 - The One In Vegas,Season-05
+joey,0.8271,Fear,Episode-01-The One After Vegas,Season-06
+joey,0.2023,Surprise,Episode-02-The One Where Ross Hugs Rachel,Season-06
+joey,0.9805,Surprise,Episode-03-The One With Ross’s Denial,Season-06
+joey,0.6705,Surprise,Episode-04-The One Where Joey Loses His Insurance,Season-06
+joey,0.9514,Fear,Episode-05-The One With Joey’s Porsche,Season-06
+joey,0.9638,Surprise,Episode-06-The One The Last Night,Season-06
+joey,0.9661,Surprise,Episode-07-The One Where Phoebe Runs,Season-06
+joey,0.9705,Surprise,Episode-08-The One With Ross’s Teeth,Season-06
+joey,0.836,Sad,Episode-09-The One Where Ross Got High,Season-06
+joey,0.9789,Surprise,Episode-10-The One With The Routinue,Season-06
+joey,0.8183,Surprise,Episode-11-The One With The Apothecary Table,Season-06
+joey,0.9903,Fear,Episode-12-The One With The Joke,Season-06
+joey,0.9836,Happy,Episode-13-The One With Rachel’s Sister,Season-06
+joey,-0.7712,Surprise,Episode-14-The One Where Chandler Can’t Cry,Season-06
+joey,0.9954,Surprise,Episode-15-06x16 - The One That Could Have Been,Season-06
+joey,0.2263,Surprise,Episode-17-The One With The Unagi,Season-06
+joey,0.9246,Surprise,Episode-18-The One Where Ross Dates A Student,Season-06
+joey,0.3818,Surprise,Episode-19-The One With Joey’s Fridge,Season-06
+joey,0.7859,Fear,Episode-20-The One With Mac and C.H.E.E.S.E.,Season-06
+joey,0.8428,Fear,Episode-21-The One Where Ross Meets Elizabeth’s Dad,Season-06
+joey,0.8658,Surprise,Episode-22-The One Where Paul’s The Man,Season-06
+joey,0.8481,Surprise,Episode-23-The One With The Ring,Season-06
+joey,0.8487,Surprise,Episode-24-06x25 - The One With The Proposal,Season-06
+joey,0.7741,Surprise,Episode-01-The One With Monica’s Thunder,Season-07
+joey,-0.9004,Sad,Episode-02-The One With Rachel’s Book,Season-07
+joey,0.9532,Surprise,Episode-03-The One With Phoebe’s Cookies,Season-07
+joey,0.919,Surprise,Episode-04-The One With Rachel’s Assistant,Season-07
+joey,0.9698,Surprise,Episode-05-The One With The Engagement Picture,Season-07
+joey,0.9733,Surprise,Episode-06-The One With The Nap Partners,Season-07
+joey,0.9868,Surprise,Episode-07-The One With Ross’s Book,Season-07
+joey,-0.4404,Sad,Episode-08-The One Where Chandler Doesn’t Like Dogs,Season-07
+joey,0.3729,Surprise,Episode-09-The One With All The Candy,Season-07
+joey,0.0,Surprise,Episode-10-The One With the Holiday Armadillo,Season-07
+joey,-0.7717,Surprise,Episode-11-The One With All The Cheesecakes,Season-07
+joey,-0.3612,Fear,Episode-12-The One Where They’re Up All Night,Season-07
+joey,-0.2023,Surprise,Episode-13-The One Where Rosita Dies,Season-07
+joey,0.6087,Surprise,Episode-14-The One Where They All Turn Thirty,Season-07
+joey,0.9833,Fear,Episode-15-The One With Joey’s New Brain,Season-07
+joey,0.9861,Surprise,Episode-16-The One With The Truth About London,Season-07
+joey,0.9634,Surprise,Episode-17-The One With The Cheap Wedding Dress,Season-07
+joey,0.9509,Fear,Episode-18-The One With Joey’s Award,Season-07
+joey,0.9871,Surprise,Episode-19-The One With Ross and Monica’s Cousin,Season-07
+joey,0.9254,Surprise,Episode-20-The One With Rachel’s Big Kiss,Season-07
+joey,0.8519,Surprise,Episode-21-The One With The Vows,Season-07
+joey,0.9287,Surprise,Episode-22-The One With Chandler’s Dad,Season-07
+joey,0.6743,Surprise,Episode-23-07x24 - The One With Chandler and Monica’s Wedding,Season-07
+joey,0.9083,Surprise,Episode-01-The One After I Do,Season-08
+joey,-0.4019,Surprise,Episode-02-The One With The Red Sweater,Season-08
+joey,0.2732,Surprise,Episode-03-The One Where Rachel Tells…,Season-08
+joey,0.9898,Fear,Episode-04-The One With The Videotape,Season-08
+joey,0.8957,Surprise,Episode-05-The One With Rachel’s Date,Season-08
+joey,-0.946,Fear,Episode-06-The One With The Halloween Party,Season-08
+joey,0.9393,Surprise,Episode-07-The One With The Stain,Season-08
+joey,0.128,Fear,Episode-08-The One With The Stripper,Season-08
+joey,0.2732,Fear,Episode-09-The One With The Rumor,Season-08
+joey,0.9685,Fear,Episode-10-The One With Monica’s Boots,Season-08
+joey,-0.6808,Fear,Episode-11-The One With Ross’ Big Step Forward,Season-08
+joey,0.9771,Surprise,Episode-12-The One Where Joey Dates Rachel,Season-08
+joey,-0.2516,Fear,Episode-13-The One Where Chandler Takes a Bath,Season-08
+joey,0.976,Surprise,Episode-14-The One With The Secret Closet,Season-08
+joey,0.9729,Surprise,Episode-15-The One With The Birthing Video,Season-08
+joey,0.9538,Surprise,Episode-16-The One Where Joey Tells Rachel,Season-08
+joey,-0.5267,Surprise,Episode-17-The One With The Tea Leaves,Season-08
+joey,-0.0772,Surprise,Episode-18-The One In Massapequa,Season-08
+joey,0.9911,Surprise,Episode-19-The One With Joey’s Interview,Season-08
+joey,0.9655,Fear,Episode-20-The One With The Baby Shower,Season-08
+joey,-0.128,Surprise,Episode-21-The One With The Cooking Class,Season-08
+joey,-0.6124,Surprise,Episode-22-The One Where Rachel Is Late,Season-08
+joey,0.8402,Fear,Episode-23-08x24 - The One Where Rachel Has A Baby,Season-08
+joey,-0.6865,Surprise,Episode-01-The One Where No One Proposes,Season-09
+joey,0.4718,Surprise,Episode-02-The One Where Emma Cries,Season-09
+joey,0.9538,Surprise,Episode-03-The One With The Pediatrician,Season-09
+joey,0.6809,Surprise,Episode-04-The One With The Sharks,Season-09
+joey,0.946,Fear,Episode-05-The One With Phoebe's Birthday Dinner,Season-09
+joey,0.8242,Surprise,Episode-06-The One With The Male Nanny (200th episode),Season-09
+joey,0.8885,Surprise,Episode-07-The One With Ross's Inappropriate Song,Season-09
+joey,0.9633,Surprise,Episode-08-The One With Rachel's Other Sister,Season-09
+joey,-0.5719,Surprise,Episode-09-The One With Rachel’s Phone Number,Season-09
+joey,0.802,Surprise,Episode-10-The One With Christmas In Tulsa,Season-09
+joey,0.9607,Sad,Episode-11-The One Where Rachel Goes Back To Work,Season-09
+joey,0.9723,Surprise,Episode-12-The One With Phoebe's Rats,Season-09
+joey,0.8442,Surprise,Episode-13-The One Where Monica Sings,Season-09
+joey,0.9657,Surprise,Episode-14-The One With the Blind Dates,Season-09
+joey,0.9899,Surprise,Episode-15-The One With The Mugging,Season-09
+joey,-0.891,Fear,Episode-16-The One With The Boob Job,Season-09
+joey,0.9434,Surprise,Episode-17-The One With The Memorial Service,Season-09
+joey,0.8555,Surprise,Episode-18-The One With The Lottery,Season-09
+joey,0.9854,Surprise,Episode-19-The One With Rachel's Dream,Season-09
+joey,0.9589,Surprise,Episode-20-The One With The Soap Opera Party,Season-09
+joey,0.7867,Surprise,Episode-21- The One With The Fertility Test,Season-09
+joey,0.9538,Happy,Episode-22-The One With The Donor,Season-09
+joey,0.8787,Surprise,Episode-23-09x24 - The One In Barbados,Season-09
+joey,0.9387,Surprise,Episode-01-The One After Joey And Rachel Kiss,Season-10
+joey,0.976,Surprise,Episode-02-The One Where Ross Is Fine,Season-10
+joey,0.7787,Surprise,Episode-03-The One With Ross' Tan,Season-10
+joey,0.9686,Surprise,Episode-04-The One With The Cake,Season-10
+joey,0.9929,Surprise,Episode-05-The One Where Rachel's Sister Baby-sits,Season-10
+joey,0.7906,Surprise,Episode-06-The One With Ross' Grant,Season-10
+joey,0.9594,Surprise,Episode-07-The One With The Home Study,Season-10
+joey,0.9307,Sad,Episode-08-The One With The Late Thanksgiving,Season-10
+joey,0.9785,Surprise,Episode-09-The One With The Birth Mother,Season-10
+joey,-0.7845,Surprise,Episode-10-The One Where Chandler Gets Caught,Season-10
+joey,0.7402,Surprise,Episode-11-The One Where The Stripper Cries,Season-10
+joey,0.9574,Fear,Episode-12-The One With Phoebe's Wedding,Season-10
+joey,0.8442,Surprise,Episode-13-The One Where Joey Speaks French,Season-10
+joey,0.9422,Surprise,Episode-14-The One With Princess Consuela,Season-10
+joey,0.9017,Surprise,Episode-15-The One Where Estelle Dies,Season-10
+ross,0.9333,Fear,Episode-01-The One Where Monica Gets a New Roommate (The Pilot),Season-01
+ross,0.9814,Surprise,Episode-02-The One With the Sonogram at the End,Season-01
+ross,0.7351,Surprise,Episode-03-The One With the Thumb,Season-01
+ross,0.959,Surprise,Episode-04-The One With George Stephanopoulos,Season-01
+ross,0.9545,Surprise,Episode-05-The One With the East German Laundry Detergent,Season-01
+ross,0.8658,Fear,Episode-06-The One With the Butt,Season-01
+ross,0.3356,Surprise,Episode-07-The One With the Blackout,Season-01
+ross,0.9624,Fear,Episode-08-The One Where Nana Dies Twice,Season-01
+ross,-0.9022,Surprise,Episode-09-The One where Underdog Gets Away,Season-01
+ross,0.7267,Sad,Episode-10-The One With the Monkey,Season-01
+ross,0.296,Surprise,Episode-11-The One With Mrs. Bing,Season-01
+ross,0.9855,Surprise,Episode-12-The One With the Dozen Lasagnas,Season-01
+ross,-0.7997,Sad,Episode-13-The One With the Boobies,Season-01
+ross,0.9735,Fear,Episode-14-The One With the Candy Hearts,Season-01
+ross,0.8176,Fear,Episode-15-The One With the Stoned Guy,Season-01
+ross,0.4588,Fear,"Episode-16-The One With Two Parts, Part 1",Season-01
+ross,0.5423,Surprise,"Episode-17-The One With Two Parts, Part 2",Season-01
+ross,0.9817,Sad,Episode-18-The One With All The Poker,Season-01
+ross,0.6124,Surprise,Episode-19-The One Where the Monkey Gets Away,Season-01
+ross,-0.7506,Sad,Episode-20-The One With the Evil Orthodontist,Season-01
+ross,-0.6653,Surprise,Episode-21-The One With The Fake Monica,Season-01
+ross,0.8838,Fear,Episode-22-The One With the Ick Factor,Season-01
+ross,0.9633,Fear,Episode-23-The One With the Birth,Season-01
+ross,0.8484,Fear,Episode-24-The One Where Rachel Finds Out,Season-01
+ross,0.9858,Surprise,Episode-01-The One With Ross' New Girlfriend,Season-02
+ross,0.8225,Happy,Episode-02-The One With the Breast Milk,Season-02
+ross,0.7003,Fear,Episode-03-The One Where Mr. Heckles Dies,Season-02
+ross,0.939,Surprise,Episode-04-The One With Phoebe's Husband,Season-02
+ross,0.9472,Surprise,Episode-05-The One With Five Steaks and an Eggplant,Season-02
+ross,-0.6597,Sad,Episode-06-The One With the Baby on the Bus,Season-02
+ross,0.967,Surprise,Episode-07-The One Where Ross Finds Out,Season-02
+ross,0.8207,Fear,Episode-08-The One With the List,Season-02
+ross,0.6335,Surprise,Episode-09-The One With Phoebe's Dad,Season-02
+ross,0.6249,Happy,Episode-10-The One With Russ,Season-02
+ross,0.9618,Happy,Episode-11-The One With the Lesbian Wedding,Season-02
+ross,0.7506,Sad,Episode-12-02x13 - The One After the Superbowl,Season-02
+ross,0.4204,Surprise,Episode-14-The One With the Prom Video,Season-02
+ross,0.9696,Surprise,Episode-15-The One Where Rachel and Ross... You Know,Season-02
+ross,-0.5859,Surprise,Episode-16-The One Where Joey Moves Out,Season-02
+ross,-0.4019,Fear,Episode-17-The One Where Eddie Moves In,Season-02
+ross,0.8265,Surprise,Episode-18-The One Where Dr. Remore Dies,Season-02
+ross,0.1779,Surprise,Episode-19-The One Where Eddie Won't Go,Season-02
+ross,0.9841,Surprise,Episode-20-The One Where Old Yeller Dies,Season-02
+ross,0.8689,Surprise,Episode-21-The One With the Two Bullies,Season-02
+ross,0.5423,Sad,Episode-22-The One With the Two Parties,Season-02
+ross,-0.0516,Fear,Episode-23-The One With the Chicken Pox,Season-02
+ross,0.5616,Happy,Episode-24-The One With Barry and Mindy's Wedding,Season-02
+ross,0.9313,Fear,Episode-01-The One With the Princess Leia Fantasy,Season-03
+ross,0.8387,Surprise,Episode-02-The One Where No-one's Ready,Season-03
+ross,-0.1779,Surprise,Episode-03-The One With the Jam,Season-03
+ross,0.1779,Fear,Episode-04-The One with the Metaphorical Tunnel,Season-03
+ross,0.8979,Surprise,Episode-05-The One With Frank Jr.,Season-03
+ross,0.464,Surprise,Episode-06-The One With The Flashback,Season-03
+ross,0.9493,Sad,Episode-07-The One With the Race Car Bed,Season-03
+ross,0.9525,Fear,Episode-08-The One With The Giant Poking Device,Season-03
+ross,-0.1531,Surprise,Episode-09-The One With The Football,Season-03
+ross,0.9729,Fear,Episode-10-The One Where Rachel Quits,Season-03
+ross,0.9731,Surprise,Episode-11-The One Where Chandler Can’t Remember Which Sister,Season-03
+ross,0.2023,Surprise,Episode-12-The One With All The Jealousy,Season-03
+ross,0.4939,Sad,Episode-13-The One Where Monica and Richard Are Friends,Season-03
+ross,0.9542,Surprise,Episode-14-The One With Phoebe’s Ex-Partner,Season-03
+ross,0.5778,Surprise,Episode-15-The One Where Ross and Rachel Take A Break,Season-03
+ross,-0.8996,Sad,Episode-16-The One The Morning After,Season-03
+ross,0.9735,Surprise,Episode-17-The One Without The Ski Trip,Season-03
+ross,-0.6486,Surprise,Episode-18-The One With The Hypnosis Tape,Season-03
+ross,-0.0772,Surprise,Episode-19-The One With The Tiny T-shirt,Season-03
+ross,0.6249,Surprise,Episode-20-The One With The Dollhouse,Season-03
+ross,0.8807,Surprise,Episode-21-The One With A Chick And A Duck,Season-03
+ross,-0.1779,Surprise,Episode-22-The One With The Screamer,Season-03
+ross,0.1877,Surprise,Episode-23-The One With Ross's Thing,Season-03
+ross,0.6808,Fear,Episode-24-The One With The Ultimate Fighting Champion,Season-03
+ross,0.9585,Surprise,Episode-25-The One At The Beach,Season-03
+ross,0.0258,Surprise,Episode-01-The One With The Jellyfish,Season-04
+ross,0.1599,Fear,Episode-02-The One With The Cat,Season-04
+ross,0.4019,Surprise,Episode-03-The One With The ‘Cuffs,Season-04
+ross,0.9422,Happy,Episode-04-The One With The Ballroom Dancing,Season-04
+ross,0.9133,Fear,Episode-05-The One With Joey's New Girlfriend,Season-04
+ross,0.8962,Fear,Episode-06-The One With The Dirty Girl,Season-04
+ross,0.8965,Fear,Episode-07-The One Where Chandler Crosses a Line,Season-04
+ross,-0.7974,Surprise,Episode-08-The One With Chandler in a Box,Season-04
+ross,0.7184,Surprise,Episode-09-The One Where They’re Gonna PARTY!,Season-04
+ross,0.9888,Surprise,Episode-10-The One With The Girl From Poughkeepsie,Season-04
+ross,0.8176,Fear,Episode-11-The One With Phoebe's Uterus,Season-04
+ross,0.9657,Fear,Episode-12-The One With The Embryos,Season-04
+ross,0.9432,Surprise,Episode-13-The One With Rachel’s Crush,Season-04
+ross,0.7964,Fear,Episode-14-The One With Joey’s Dirty Day,Season-04
+ross,0.9915,Surprise,Episode-15-The One With All The Rugby,Season-04
+ross,0.6808,Surprise,Episode-16-The One With The Fake Party,Season-04
+ross,0.9143,Surprise,Episode-17-The One With The Free p0rn,Season-04
+ross,0.9485,Surprise,Episode-18-The One With Rachel’s New Dress,Season-04
+ross,0.947,Fear,Episode-19-The One With All The Haste,Season-04
+ross,0.9001,Surprise,Episode-20-The One With All the Wedding Dresses,Season-04
+ross,0.9618,Surprise,Episode-21-The One With The Invitation,Season-04
+ross,0.988,Surprise,Episode-22-The One With The Worst Best Man Ever,Season-04
+ross,0.9371,Surprise,Episode-23-04x24 - The One With Ross’s Wedding Parts I and II,Season-04
+ross,0.6705,Surprise,Episode-01-The One After Ross Says Rachel,Season-05
+ross,-0.802,Surprise,Episode-02-The One With All The Kissing,Season-05
+ross,0.7579,Fear,Episode-03-The One Hundredth,Season-05
+ross,0.9565,Surprise,Episode-04-The One Where Phoebe Hates PBS,Season-05
+ross,0.6705,Surprise,Episode-05-The One With All the Kips,Season-05
+ross,0.9788,Surprise,Episode-06-The One With The Yeti,Season-05
+ross,0.701,Fear,Episode-07-The One Where Ross Moves In,Season-05
+ross,0.1027,Fear,Episode-08-The One With The Thanksgiving Flashbacks,Season-05
+ross,0.9153,Fear,Episode-09-The One With Ross's Sandwich,Season-05
+ross,0.9432,Surprise,Episode-10-The One With The Inappropriate Sister,Season-05
+ross,0.9623,Surprise,Episode-11-The One With All The Resolutions,Season-05
+ross,0.93,Fear,Episode-12-The One With Chandler's Work Laugh,Season-05
+ross,-0.5574,Fear,Episode-13-The One With Joey's Bag,Season-05
+ross,0.9902,Fear,Episode-14-The One Where Everyone Finds Out,Season-05
+ross,0.9048,Sad,Episode-15-The One With The Girl Who Hits Joey,Season-05
+ross,0.9761,Fear,Episode-16-The One With A Cop,Season-05
+ross,0.5879,Fear,Episode-17-The One With Rachel's Inappropriate Kiss,Season-05
+ross,0.8834,Surprise,Episode-18-The One Where Rachel Smokes,Season-05
+ross,0.9593,Surprise,Episode-19-The One Where Ross Can't Flirt,Season-05
+ross,0.9498,Surprise,Episode-20-The One With The Ride Along,Season-05
+ross,0.7579,Surprise,Episode-21-The One With The Ball,Season-05
+ross,-0.9086,Surprise,Episode-22-The One With Joey's Big Break,Season-05
+ross,0.2732,Surprise,Episode-23-05x24 - The One In Vegas,Season-05
+ross,0.6613,Surprise,Episode-01-The One After Vegas,Season-06
+ross,-0.1139,Surprise,Episode-02-The One Where Ross Hugs Rachel,Season-06
+ross,0.9517,Fear,Episode-03-The One With Ross’s Denial,Season-06
+ross,0.9666,Fear,Episode-04-The One Where Joey Loses His Insurance,Season-06
+ross,0.902,Fear,Episode-05-The One With Joey’s Porsche,Season-06
+ross,-0.5719,Surprise,Episode-06-The One The Last Night,Season-06
+ross,0.6124,Surprise,Episode-07-The One Where Phoebe Runs,Season-06
+ross,0.7017,Surprise,Episode-08-The One With Ross’s Teeth,Season-06
+ross,0.8968,Surprise,Episode-09-The One Where Ross Got High,Season-06
+ross,0.1779,Surprise,Episode-10-The One With The Routinue,Season-06
+ross,0.7783,Surprise,Episode-11-The One With The Apothecary Table,Season-06
+ross,0.7003,Fear,Episode-12-The One With The Joke,Season-06
+ross,0.8773,Surprise,Episode-13-The One With Rachel’s Sister,Season-06
+ross,0.981,Surprise,Episode-14-The One Where Chandler Can’t Cry,Season-06
+ross,0.9681,Surprise,Episode-15-06x16 - The One That Could Have Been,Season-06
+ross,0.8957,Surprise,Episode-17-The One With The Unagi,Season-06
+ross,0.4767,Surprise,Episode-18-The One Where Ross Dates A Student,Season-06
+ross,0.9825,Surprise,Episode-19-The One With Joey’s Fridge,Season-06
+ross,-0.296,Surprise,Episode-20-The One With Mac and C.H.E.E.S.E.,Season-06
+ross,0.9325,Surprise,Episode-21-The One Where Ross Meets Elizabeth’s Dad,Season-06
+ross,0.9748,Surprise,Episode-22-The One Where Paul’s The Man,Season-06
+ross,-0.7102,Surprise,Episode-23-The One With The Ring,Season-06
+ross,0.9843,Surprise,Episode-24-06x25 - The One With The Proposal,Season-06
+ross,0.9664,Surprise,Episode-01-The One With Monica’s Thunder,Season-07
+ross,-0.4404,Surprise,Episode-02-The One With Rachel’s Book,Season-07
+ross,0.9452,Fear,Episode-03-The One With Phoebe’s Cookies,Season-07
+ross,0.9678,Fear,Episode-04-The One With Rachel’s Assistant,Season-07
+ross,0.7801,Sad,Episode-05-The One With The Engagement Picture,Season-07
+ross,0.9522,Surprise,Episode-06-The One With The Nap Partners,Season-07
+ross,0.6597,Fear,Episode-07-The One With Ross’s Book,Season-07
+ross,-0.6124,Surprise,Episode-08-The One Where Chandler Doesn’t Like Dogs,Season-07
+ross,0.9467,Sad,Episode-09-The One With All The Candy,Season-07
+ross,0.8278,Surprise,Episode-10-The One With the Holiday Armadillo,Season-07
+ross,0.934,Surprise,Episode-11-The One With All The Cheesecakes,Season-07
+ross,0.9062,Surprise,Episode-12-The One Where They’re Up All Night,Season-07
+ross,-0.3182,Surprise,Episode-13-The One Where Rosita Dies,Season-07
+ross,0.8756,Surprise,Episode-14-The One Where They All Turn Thirty,Season-07
+ross,0.3804,Fear,Episode-15-The One With Joey’s New Brain,Season-07
+ross,0.9555,Surprise,Episode-16-The One With The Truth About London,Season-07
+ross,0.9785,Surprise,Episode-17-The One With The Cheap Wedding Dress,Season-07
+ross,0.6765,Fear,Episode-18-The One With Joey’s Award,Season-07
+ross,0.2992,Surprise,Episode-19-The One With Ross and Monica’s Cousin,Season-07
+ross,0.8271,Surprise,Episode-20-The One With Rachel’s Big Kiss,Season-07
+ross,0.9224,Happy,Episode-21-The One With The Vows,Season-07
+ross,-0.6411,Surprise,Episode-22-The One With Chandler’s Dad,Season-07
+ross,0.9745,Fear,Episode-23-07x24 - The One With Chandler and Monica’s Wedding,Season-07
+ross,0.9412,Surprise,Episode-01-The One After I Do,Season-08
+ross,-0.765,Surprise,Episode-02-The One With The Red Sweater,Season-08
+ross,0.9845,Surprise,Episode-03-The One Where Rachel Tells…,Season-08
+ross,0.9775,Surprise,Episode-04-The One With The Videotape,Season-08
+ross,0.907,Surprise,Episode-05-The One With Rachel’s Date,Season-08
+ross,-0.3008,Surprise,Episode-06-The One With The Halloween Party,Season-08
+ross,0.2263,Fear,Episode-07-The One With The Stain,Season-08
+ross,0.9045,Sad,Episode-08-The One With The Stripper,Season-08
+ross,0.8761,Surprise,Episode-09-The One With The Rumor,Season-08
+ross,-0.2795,Surprise,Episode-10-The One With Monica’s Boots,Season-08
+ross,0.9729,Surprise,Episode-11-The One With Ross’ Big Step Forward,Season-08
+ross,0.8097,Sad,Episode-12-The One Where Joey Dates Rachel,Season-08
+ross,0.957,Surprise,Episode-13-The One Where Chandler Takes a Bath,Season-08
+ross,0.9723,Surprise,Episode-14-The One With The Secret Closet,Season-08
+ross,0.9845,Surprise,Episode-15-The One With The Birthing Video,Season-08
+ross,0.128,Surprise,Episode-16-The One Where Joey Tells Rachel,Season-08
+ross,0.6908,Sad,Episode-17-The One With The Tea Leaves,Season-08
+ross,0.9823,Surprise,Episode-18-The One In Massapequa,Season-08
+ross,0.9486,Happy,Episode-19-The One With Joey’s Interview,Season-08
+ross,0.9801,Surprise,Episode-20-The One With The Baby Shower,Season-08
+ross,0.8137,Surprise,Episode-21-The One With The Cooking Class,Season-08
+ross,0.6908,Surprise,Episode-22-The One Where Rachel Is Late,Season-08
+ross,0.9897,Surprise,Episode-23-08x24 - The One Where Rachel Has A Baby,Season-08
+ross,0.1157,Surprise,Episode-01-The One Where No One Proposes,Season-09
+ross,0.8365,Surprise,Episode-02-The One Where Emma Cries,Season-09
+ross,0.945,Surprise,Episode-03-The One With The Pediatrician,Season-09
+ross,0.9442,Sad,Episode-04-The One With The Sharks,Season-09
+ross,0.9312,Surprise,Episode-05-The One With Phoebe's Birthday Dinner,Season-09
+ross,0.7222,Surprise,Episode-06-The One With The Male Nanny (200th episode),Season-09
+ross,0.0,Surprise,Episode-07-The One With Ross's Inappropriate Song,Season-09
+ross,0.9652,Fear,Episode-08-The One With Rachel's Other Sister,Season-09
+ross,0.955,Fear,Episode-09-The One With Rachel’s Phone Number,Season-09
+ross,-0.0772,Surprise,Episode-10-The One With Christmas In Tulsa,Season-09
+ross,0.5719,Fear,Episode-11-The One Where Rachel Goes Back To Work,Season-09
+ross,0.7713,Fear,Episode-12-The One With Phoebe's Rats,Season-09
+ross,0.9799,Fear,Episode-13-The One Where Monica Sings,Season-09
+ross,-0.9062,Surprise,Episode-14-The One With the Blind Dates,Season-09
+ross,0.8922,Surprise,Episode-15-The One With The Mugging,Season-09
+ross,0.9806,Happy,Episode-16-The One With The Boob Job,Season-09
+ross,-0.9623,Fear,Episode-17-The One With The Memorial Service,Season-09
+ross,0.9782,Fear,Episode-18-The One With The Lottery,Season-09
+ross,0.9275,Sad,Episode-19-The One With Rachel's Dream,Season-09
+ross,0.9623,Fear,Episode-20-The One With The Soap Opera Party,Season-09
+ross,0.9062,Surprise,Episode-21- The One With The Fertility Test,Season-09
+ross,0.7425,Surprise,Episode-22-The One With The Donor,Season-09
+ross,0.9586,Surprise,Episode-23-09x24 - The One In Barbados,Season-09
+ross,0.9862,Surprise,Episode-01-The One After Joey And Rachel Kiss,Season-10
+ross,0.9894,Surprise,Episode-02-The One Where Ross Is Fine,Season-10
+ross,-0.6597,Surprise,Episode-03-The One With Ross' Tan,Season-10
+ross,0.9272,Surprise,Episode-04-The One With The Cake,Season-10
+ross,-0.6808,Surprise,Episode-05-The One Where Rachel's Sister Baby-sits,Season-10
+ross,-0.5657,Fear,Episode-06-The One With Ross' Grant,Season-10
+ross,0.9694,Surprise,Episode-07-The One With The Home Study,Season-10
+ross,0.1027,Surprise,Episode-08-The One With The Late Thanksgiving,Season-10
+ross,0.9312,Surprise,Episode-09-The One With The Birth Mother,Season-10
+ross,0.9618,Surprise,Episode-10-The One Where Chandler Gets Caught,Season-10
+ross,0.5552,Surprise,Episode-11-The One Where The Stripper Cries,Season-10
+ross,-0.7003,Fear,Episode-12-The One With Phoebe's Wedding,Season-10
+ross,0.9812,Surprise,Episode-13-The One Where Joey Speaks French,Season-10
+ross,0.9845,Fear,Episode-14-The One With Princess Consuela,Season-10
+ross,0.9797,Fear,Episode-15-The One Where Estelle Dies,Season-10
