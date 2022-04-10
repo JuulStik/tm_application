@@ -26,7 +26,6 @@
 
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="css/main.css" />
-    <link rel="stylesheet" href="css/sidenav.css" />
     <!-- jquery -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   </head>

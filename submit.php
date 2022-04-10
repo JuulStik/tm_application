@@ -10,7 +10,7 @@ if (empty($_POST['seasons']) or empty($_POST['episodes']) or empty($_POST['chara
 
     $conn = mysqli_connect("127.0.0.1", "root", "", "friendsdb");
 
-    $sql = "SELECT * FROM sentiments where seasons = '$season' and episodes = '$episode' and characters = '$characters' and seasons != 'Season'";
+    $sql = "SELECT * FROM sentiments1 where seasons = '$season' and episodes = '$episode' and characters = '$characters' and seasons != 'Season'";
 
     $result = mysqli_query($conn, $sql);
 

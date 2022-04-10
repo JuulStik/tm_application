@@ -9,7 +9,7 @@ We can't host this application because it contains copyrighted material.
 
 4. In the phpMyAdmin create a new database with name 'friendsdb'
 
-5. In this database import the sentiments-emotions.csv file as table and name it 'sentiments'
+5. In this database import the sentiments-emotions.csv file as table and name it 'sentiments1'
 
 6. Now the database should be visible in 'Browse' whith column names COL 1, COL 2, etc..
 
